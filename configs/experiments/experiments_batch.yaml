@@ -1,0 +1,167 @@
+# This configuration defines experiments with threshold-filtered OpenMath symbols.
+# Each experiment specifies a reranker score threshold, and only problems with
+# OpenMath symbols scoring >= threshold are included.
+
+version: "1.0"
+
+defaults:
+  n_problems: 500
+  max_tokens: 4096
+  top_k_symbols: 20
+  seed: 42
+  temperature: 0.6
+  max_attempts: 5
+
+experiments:
+  # =========================================================================
+  # Gemma2:9b: Threshold [0.3,0.5,0.7,0.9]
+  # =========================================================================
+  - name: "gemma2-9b_openmath_greedy_0.3"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.3
+
+  - name: "gemma2-9b_openmath_greedy_0.5"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.5
+
+  - name: "gemma2-9b_openmath_greedy_0.7"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.7
+
+  - name: "gemma2-9b_openmath_greedy_0.9"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.9
+
+  - name: "gemma2-9b_openmath_best-of-n_0.3"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.3
+
+  - name: "gemma2-9b_openmath_best-of-n_0.5"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.5
+
+  - name: "gemma2-9b_openmath_best-of-n_0.7"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.7
+
+  - name: "gemma2-9b_openmath_best-of-n_0.9"
+    model: "gemma2:9b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.9
+
+  # =========================================================================
+  # Qwen2.5-Math-7B: Threshold [0.1,0.2,0.6,0.8]
+  # =========================================================================
+  - name: "qwen2.5-math-7b_openmath_greedy_0.1"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.1
+
+  - name: "qwen2.5-math-7b_openmath_greedy_0.2"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.2
+
+  - name: "qwen2.5-math-7b_openmath_greedy_0.6"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.6
+
+  - name: "qwen2.5-math-7b_openmath_greedy_0.8"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.8
+
+  - name: "qwen2.5-math-7b_openmath_best-of-n_0.1"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.1
+
+  - name: "qwen2.5-math-7b_openmath_best-of-n_0.2"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.2
+
+  - name: "qwen2.5-math-7b_openmath_best-of-n_0.6"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.6
+
+  - name: "qwen2.5-math-7b_openmath_best-of-n_0.8"
+    model: "johnnyboy/qwen2.5-math-7b:latest"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.8
+
+  # =========================================================================
+  # Gemma2:2b: Threshold [0.1,0.2,0.6,0.8]
+  # =========================================================================
+  - name: "gemma2-2b_openmath_greedy_0.1"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.1
+
+  - name: "gemma2-2b_openmath_greedy_0.2"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.2
+
+  - name: "gemma2-2b_openmath_greedy_0.6"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.6
+
+  - name: "gemma2-2b_openmath_greedy_0.8"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "greedy"
+    threshold: 0.8
+
+  - name: "gemma2-2b_openmath_best-of-n_0.1"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.1
+
+  - name: "gemma2-2b_openmath_best-of-n_0.2"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.2
+
+  - name: "gemma2-2b_openmath_best-of-n_0.6"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.6
+
+  - name: "gemma2-2b_openmath_best-of-n_0.8"
+    model: "gemma2:2b"
+    condition: "openmath"
+    mode: "best-of-n"
+    threshold: 0.8

@@ -1,0 +1,194 @@
+# Line + Bubble Plot Configuration
+version: "1.2"
+
+# Plot metadata
+title: "OpenMath Accuracy Impact by Threshold\n[mode: greedy, level: 3, type: all]"
+description: "Line+Bubble plot showing accuracy delta and attempts ratio by threshold"
+
+# Data source (CSV file path relative to project root)
+# data_file: "experiments/results/results_260207_1539.csv"
+
+# Global data filters (applied before plotting)
+# These filter the data to specific subsets before grouping
+filters:
+  mode: "greedy"
+  level: "3"
+  type: "all"
+
+# =============================================================================
+# METRICS DEFINITIONS
+# =============================================================================
+# Define reusable metrics here. Metrics can reference:
+#   - Base variables: baseline_correct, baseline_problems, baseline_attempts,
+#                     openmath_correct, openmath_problems, openmath_attempts
+#   - Other metrics: metrics can build on each other (e.g., accuracy_delta_pct
+#                    references openmath_acc and baseline_acc)
+#
+# OPERATORS: +, -, *, /, ** (power), parentheses
+# =============================================================================
+metrics:
+  # Base accuracy metrics
+  openmath_acc: "openmath_correct / openmath_problems"
+  baseline_acc: "baseline_correct / baseline_problems"
+
+  # Derived metrics (can reference other metrics)
+  accuracy_delta_pct: "100 * (openmath_acc - baseline_acc)"
+  accuracy_delta_ratio: "openmath_acc / baseline_acc"
+
+  # Attempts/efficiency metrics
+  openmath_attempts_ratio: "openmath_attempts / baseline_attempts"
+  baseline_attempts_ratio: "baseline_attempts / openmath_attempts"
+
+# Global defaults
+defaults:
+  line:
+    width: 2.5
+    opacity: 0.9
+    marker_size: 8
+  bubble:
+    min_size: 100          # Minimum bubble area (points^2) - for data min
+    reference_size: 200   # Reference value bubble area (points^2) - fixed anchor
+    max_size: 800         # Maximum bubble area (points^2) - for data max
+    opacity: 0.3
+    edge_width: 1.5
+
+# X-axis configuration
+x_axis:
+  column: "threshold"
+  label: "Reranker Score Threshold"
+  # range: [0, 1]  # Optional: explicit range
+
+# Y-axis configuration
+y_axis:
+  label: "Accuracy Delta (%)"
+  # range: [-10, 10]  # Optional: explicit range
+
+# Plot series configuration
+# Each series uses `metric:` to reference a defined metric, or `formula:` for inline
+series:
+  # --- Model: qwen2.5-math-7b ---
+  - label: "Qwen2.5-Math-7B"
+    filter:
+      model: "qwen2.5-math-7b"
+    line:
+      # Using custom formula (equivalent to accuracy_delta_pct)
+      metric: "accuracy_delta_pct"
+      color: "#d62728" # MATPLOTLIB TAB10 Tab Red
+    bubble:
+      metric: "baseline_attempts_ratio"
+      color: "#d62728" # MATPLOTLIB TAB10 Tab Red
+
+  # --- Model: gemma2-9b ---
+  - label: "Gemma2:9B"
+    filter:
+      model: "gemma2-9b"
+    line:
+      # Using custom formula (equivalent to accuracy_delta_pct)
+      metric: "accuracy_delta_pct"
+      color: #0072B2  # OKABE-ITO Blue
+    bubble:
+      metric: "baseline_attempts_ratio"
+      color: #0072B2  # OKABE-ITO Blue
+
+  # --- Model: Qwen2.5:7b ---
+  - label: "Qwen2.5:7b"
+    filter:
+      model: "qwen2.5:7b"
+    line:
+      # Using predefined metric (cleaner)
+      metric: "accuracy_delta_pct"
+      color: "#CC79A7"  # OKABE-ITO Reddish Purple
+    bubble:
+      metric: "baseline_attempts_ratio"
+      color: "#CC79A7"  # OKABE-ITO Reddish Purple
+
+  # --- Model: gemma2-2b ---
+  - label: "Gemma2:2B"
+    filter:
+      model: "gemma2-2b"
+    line:
+      metric: "accuracy_delta_pct"
+      color: "#17becf"  # MATPLOTLIB TAB10 Tab Cyan
+    bubble:
+      metric: "baseline_attempts_ratio"
+      color: "#17becf"  # MATPLOTLIB TAB10 Tab Cyan
+
+  # --- Model: Qwen2.5:1.5b ---
+  - label: "Qwen2.5:1.5b"
+    filter:
+      model: "qwen2.5:1.5b"
+    line:
+      metric: "accuracy_delta_pct"
+      color: "#D55E00" # OKABE-ITO Vermilion
+    bubble:
+      metric: "baseline_attempts_ratio"
+      color: "#D55E00" # OKABE-ITO Vermilion
+
+# Layout configuration
+layout:
+  width: 1000
+  height: 600
+  margin:
+    left: 80
+    right: 80
+    top: 60
+    bottom: 60
+  grid: true
+  grid_alpha: 0.3
+  # Add horizontal line at y=0 for reference
+  hline_at_zero: true
+
+# Legend configuration (NEW STRUCTURE in v1.1)
+legend:
+  line:
+    show: true
+    position: "upper left"
+    #title: "Models"
+  bubble:
+    show: false
+    position: "lower left"
+    title: "Attempts Ratio: Baseline/OpenMath"
+    reference_value: 1.0        # Solid circle marker (greedy mode default)
+    #levels: [0.9, 1.0, 1.1]     # Narrower range for better differentiation near 1.0
+    levels: [1.0]     # Narrower range for better differentiation near 1.0
+    # Legend box sizing (adjust these to control legend size)
+    handle_height: 2.0          # Height of each legend entry (in fontsize units)
+    label_spacing: 0.75          # Spacing between legend entries (in fontsize units)
+    border_pad: 0.5             # Padding inside legend border (in fontsize units)
+
+# Output configuration
+output:
+  png: true
+  png_file: "experiments/plots/lines-bubbles_greedy_3_all.png"
+  pdf: false
+  #pdf_file: "experiments/plots/"
+  save_csv: true  # Save CSV alongside PNG with line and bubble values
+  show: true
+
+# =============================================================================
+# COLOR PALETTES REFERENCE
+# =============================================================================
+#
+# OKABE-ITO (Colorblind-Safe, Recommended for Publications):
+#   #E69F00  Orange
+#   #56B4E9  Sky Blue
+#   #009E73  Bluish Green
+#   #F0E442  Yellow
+#   #0072B2  Blue
+#   #D55E00  Vermilion
+#   #CC79A7  Reddish Purple
+#   #000000  Black
+#
+# MATPLOTLIB TAB10:
+#   #1f77b4  Tab Blue
+#   #ff7f0e  Tab Orange
+#   #2ca02c  Tab Green
+#   #d62728  Tab Red
+#   #9467bd  Tab Purple
+#   #8c564b  Tab Brown
+#   #e377c2  Tab Pink
+#   #7f7f7f  Tab Gray
+#   #bcbd22  Tab Olive
+#   #17becf  Tab Cyan
+#
+# =============================================================================

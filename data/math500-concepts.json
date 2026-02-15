@@ -1,0 +1,6006 @@
+{
+  "math_00000": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "rectangular coordinates",
+      "polar coordinates",
+      "conversion formulae",
+      "trigonometry",
+      "angle calculation"
+    ]
+  },
+  "math_00001": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "infinite series",
+      "double sum",
+      "zeta function",
+      "algebraic manipulation",
+      "number theory"
+    ]
+  },
+  "math_00002": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "rational function",
+      "evaluation",
+      "algebra",
+      "common fraction"
+    ]
+  },
+  "math_00003": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "divisors",
+      "positive whole numbers",
+      "number theory",
+      "factorization"
+    ]
+  },
+  "math_00004": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "graphing",
+      "data interpretation",
+      "average speed",
+      "rate of change",
+      "linear equations",
+      "slope",
+      "time",
+      "distance",
+      "speed"
+    ]
+  },
+  "math_00005": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "regular hexagon",
+      "equilateral triangle",
+      "perimeter",
+      "geometric properties",
+      "algebra"
+    ]
+  },
+  "math_00006": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "perfect cube",
+      "sum of consecutive integers",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00007": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "set",
+      "points",
+      "coordinates",
+      "line",
+      "angle",
+      "vectors",
+      "dot product",
+      "cosine similarity",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00008": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "distance formula",
+      "coordinates",
+      "square root",
+      "simplifying radicals",
+      "algebra"
+    ]
+  },
+  "math_00009": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "arithmetic operations",
+      "inserting parentheses",
+      "values obtained",
+      "non-associative multiplication",
+      "combinatorial counting"
+    ]
+  },
+  "math_00010": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "least common multiple",
+      "gcd",
+      "integer",
+      "divisibility",
+      "number theory"
+    ]
+  },
+  "math_00011": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "degree",
+      "interpolation",
+      "rational function",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00012": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "divisor",
+      "proper divisor",
+      "integer",
+      "sum",
+      "number theory"
+    ]
+  },
+  "math_00013": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "volume of a cylinder",
+      "cylinder",
+      "radius",
+      "height",
+      "algebra",
+      "pi",
+      "cubic cm",
+      "mathematical constants"
+    ]
+  },
+  "math_00014": {
+    "level": 1,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "right triangle",
+      "Pythagorean theorem",
+      "trigonometry"
+    ]
+  },
+  "math_00015": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "complex number",
+      "rotation in the complex plane",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00016": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "arithmetic series",
+      "alternating sum",
+      "integer sequence",
+      "number theory"
+    ]
+  },
+  "math_00017": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "sine function",
+      "amplitude",
+      "period",
+      "horizontal shift",
+      "vertical shift",
+      "trigonometric functions",
+      "graph interpretation",
+      "sinusoidal waves"
+    ]
+  },
+  "math_00018": {
+    "level": 1,
+    "type": "geometry",
+    "concepts": [
+      "parallel lines",
+      "angle",
+      "isosceles triangle",
+      "angle sum property",
+      "algebra"
+    ]
+  },
+  "math_00019": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "cubic equation",
+      "roots",
+      "real numbers",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00020": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "complex numbers",
+      "imaginary unit",
+      "multiplication",
+      "subtraction",
+      "algebra"
+    ]
+  },
+  "math_00021": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "greatest integer",
+      "integer part",
+      "approximation",
+      "algebra",
+      "radicals",
+      "exponentiation",
+      "number theory"
+    ]
+  },
+  "math_00022": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "ratio",
+      "system of equations",
+      "determinant",
+      "integer solutions"
+    ]
+  },
+  "math_00023": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "square root",
+      "equation",
+      "isolate variable",
+      "quadratic equation",
+      "roots",
+      "real number",
+      "nonlinear equation"
+    ]
+  },
+  "math_00024": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "compound interest",
+      "interest rate",
+      "savings account",
+      "deposits",
+      "total amount",
+      "algebra",
+      "finance",
+      "time period"
+    ]
+  },
+  "math_00025": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "functional equation",
+      "real numbers",
+      "integers",
+      "algebra",
+      "solving equations",
+      "function properties",
+      "number theory",
+      "integer solutions"
+    ]
+  },
+  "math_00026": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "round table arrangement",
+      "combinatorics",
+      "rotation symmetry"
+    ]
+  },
+  "math_00027": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "addition",
+      "subtraction",
+      "multiplication",
+      "division",
+      "total revenue",
+      "cost",
+      "profit",
+      "bake sale",
+      "Fundraiser",
+      "monetary calculations"
+    ]
+  },
+  "math_00028": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "rotation",
+      "complex numbers",
+      "counter-clockwise",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00029": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combinatorics",
+      "permutation",
+      "factorial",
+      "arrangement"
+    ]
+  },
+  "math_00030": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "multiplication",
+      "number system",
+      "algebra"
+    ]
+  },
+  "math_00031": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "square root",
+      "radical expressions",
+      "factorization",
+      "number theory"
+    ]
+  },
+  "math_00032": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "factorial",
+      "round table arrangement",
+      "combinatorics",
+      "rotation symmetry"
+    ]
+  },
+  "math_00033": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "geometric sequence",
+      "term",
+      "common ratio",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00034": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "binomial theorem",
+      "constant term",
+      "expansion",
+      "algebra",
+      "polynomial"
+    ]
+  },
+  "math_00035": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "modular arithmetic",
+      "congruence",
+      "remainder",
+      "algebraic manipulation",
+      "number theory"
+    ]
+  },
+  "math_00036": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "roots",
+      "cubic equation",
+      "algebra",
+      "factorization",
+      "number theory"
+    ]
+  },
+  "math_00037": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "regular polygon",
+      "rotation",
+      "angle",
+      "geometric symmetry",
+      "algebraic expression"
+    ]
+  },
+  "math_00038": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "calories",
+      "daily caloric requirement",
+      "percentage",
+      "algebra",
+      "proportion"
+    ]
+  },
+  "math_00039": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "greatest common factor",
+      "gcd",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00040": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "perimeter",
+      "regular octagon",
+      "regular hexagon",
+      "side length",
+      "algebra",
+      "equation solving",
+      "geometric properties"
+    ]
+  },
+  "math_00041": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "coordinates",
+      "parallelogram",
+      "geometric properties",
+      "algebra",
+      "system of equations"
+    ]
+  },
+  "math_00042": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "inequality",
+      "algebra",
+      "linear equation",
+      "solving inequalities",
+      "real numbers"
+    ]
+  },
+  "math_00043": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "distance formula",
+      "square root",
+      "triangle inequality",
+      "algebraic manipulation",
+      "optimization problem",
+      "geometric interpretation"
+    ]
+  },
+  "math_00044": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "distance",
+      "Pythagorean theorem",
+      "right triangle",
+      "square root",
+      "decimal",
+      "approximation"
+    ]
+  },
+  "math_00045": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "right triangle",
+      "sine",
+      "cosine",
+      "tangent",
+      "trigonometric identities",
+      "algebraic manipulation"
+    ]
+  },
+  "math_00046": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "algebra",
+      "roots of unity",
+      "complex numbers",
+      "polynomial equations",
+      "number theory"
+    ]
+  },
+  "math_00047": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "vertical asymptote",
+      "horizontal asymptote",
+      "rational function",
+      "asymptotic behavior",
+      "algebra",
+      "calculus"
+    ]
+  },
+  "math_00048": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "exponentiation",
+      "logarithm",
+      "common fraction",
+      "algebra"
+    ]
+  },
+  "math_00049": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "equation",
+      "linear equation",
+      "solving for variable",
+      "substitution",
+      "equality"
+    ]
+  },
+  "math_00050": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "algebra",
+      "number theory",
+      "integer",
+      "divisibility",
+      "system of equations",
+      "gcd",
+      "lcm",
+      "arithmetic sequence"
+    ]
+  },
+  "math_00051": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial division",
+      "quotient",
+      "remainder",
+      "algebra",
+      "divisibility"
+    ]
+  },
+  "math_00052": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "simplification",
+      "square root",
+      "algebra",
+      "rational expression"
+    ]
+  },
+  "math_00053": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "arcsine",
+      "sine function",
+      "radians",
+      "trigonometry"
+    ]
+  },
+  "math_00054": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "fraction",
+      "decimal",
+      "conversion",
+      "number theory"
+    ]
+  },
+  "math_00055": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "polynomial",
+      "degree of polynomial",
+      "algebra",
+      "equation solving",
+      "factorization"
+    ]
+  },
+  "math_00056": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "sum",
+      "first $N$ positive odd numbers",
+      "arithmetic series",
+      "number theory"
+    ]
+  },
+  "math_00057": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex number",
+      "modulus",
+      "exponentiation",
+      "algebra"
+    ]
+  },
+  "math_00058": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "number theory",
+      "integer",
+      "squares",
+      "sum of integers",
+      "mathematical operations"
+    ]
+  },
+  "math_00059": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "set",
+      "intersection",
+      "union",
+      "complement",
+      "principle of inclusion-exclusion",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00060": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "factorization",
+      "algebra",
+      "roots",
+      "number theory"
+    ]
+  },
+  "math_00061": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic equation",
+      "roots",
+      "logarithm",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00062": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "eigenvalues",
+      "eigenvectors",
+      "matrix norms",
+      "linear algebra",
+      "inequalities",
+      "sobolev spaces"
+    ]
+  },
+  "math_00063": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "factorization",
+      "integer coefficients",
+      "irreducible polynomials",
+      "evaluation of polynomials at specific points",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00064": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "trigonometric identity",
+      "angle",
+      "algebra",
+      "cosine",
+      "sum of angles",
+      "amplitude",
+      "periodicity",
+      "Fourier series"
+    ]
+  },
+  "math_00065": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "exponentiation",
+      "modular arithmetic",
+      "large numbers",
+      "number theory"
+    ]
+  },
+  "math_00066": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "expansion",
+      "simplification",
+      "polynomial",
+      "like terms",
+      "Combine like terms",
+      "distributive property",
+      "quadratic expression"
+    ]
+  },
+  "math_00067": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "square",
+      "rectangle",
+      "area",
+      "percentage decrease",
+      "lengths",
+      "mathematical operations",
+      "geometry",
+      "algebra"
+    ]
+  },
+  "math_00068": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "tangent",
+      "trigonometric identity",
+      "sum of tangents",
+      "algebraic manipulation",
+      "angle sum identity"
+    ]
+  },
+  "math_00069": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "roots of unity",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00070": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "subtraction in base 9",
+      "number system",
+      "arithmetic in different bases"
+    ]
+  },
+  "math_00071": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "binary",
+      "base conversion",
+      "number system",
+      "algebra"
+    ]
+  },
+  "math_00072": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "radius",
+      "sphere",
+      "volume",
+      "surface area",
+      "algebra",
+      "equations",
+      "geometric properties"
+    ]
+  },
+  "math_00073": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "operation",
+      "positive integers",
+      "square root",
+      "rational expression",
+      "simplifying radicals",
+      "common fraction",
+      "simplest radical form"
+    ]
+  },
+  "math_00074": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "trigonometric identities",
+      "simplification",
+      "secant",
+      "sine",
+      "cosine",
+      "algebraic manipulation"
+    ]
+  },
+  "math_00075": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "multiples",
+      "product",
+      "fairness",
+      "sides",
+      "number theory",
+      "common fraction"
+    ]
+  },
+  "math_00076": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "logarithmic function",
+      "domain of function",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00077": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "exponents",
+      "algebra",
+      "logarithms",
+      "number theory"
+    ]
+  },
+  "math_00078": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "cubic polynomial",
+      "roots",
+      "real numbers",
+      "algebra",
+      "factorization",
+      "polynomial identity"
+    ]
+  },
+  "math_00079": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "exponentiation",
+      "logarithm",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00080": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "logarithm",
+      "equation",
+      "real solution",
+      "integer value",
+      "closed interval",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00081": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "weight",
+      "treeks",
+      "squigs",
+      "goolees"
+    ]
+  },
+  "math_00082": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "slope",
+      "line equation",
+      "coordinates",
+      "square",
+      "opposite corners",
+      "greatest possible value",
+      "common fraction"
+    ]
+  },
+  "math_00083": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "exponential equation",
+      "logarithm",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00084": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "polynomial multiplication",
+      "algebraic expression",
+      "coefficients",
+      "like terms",
+      "equation solving",
+      "algebra"
+    ]
+  },
+  "math_00085": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "right cylindrical tank",
+      "circular bases",
+      "volume rate",
+      "height rate",
+      "radius",
+      "cylinder volume formula",
+      "algebraic equation",
+      "solving equations",
+      "radical form"
+    ]
+  },
+  "math_00086": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "combination",
+      "product rule",
+      "counting principle",
+      "algebra"
+    ]
+  },
+  "math_00087": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "absolute value",
+      "equation",
+      "linear equations",
+      "algebra",
+      "cases",
+      "solving equations"
+    ]
+  },
+  "math_00088": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "piecewise function",
+      "quadratic function",
+      "linear function",
+      "intersection with horizontal lines",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00089": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "greatest common divisor",
+      "gcd",
+      "integer",
+      "divisibility",
+      "number theory"
+    ]
+  },
+  "math_00090": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "division",
+      "fraction",
+      "multiplication",
+      "reciprocal",
+      "algebra"
+    ]
+  },
+  "math_00091": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "square root",
+      "rational function",
+      "real numbers",
+      "domain of a function",
+      "algebra"
+    ]
+  },
+  "math_00092": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "binomial probability",
+      "combinations",
+      "probability",
+      "counting",
+      "algebra"
+    ]
+  },
+  "math_00093": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "circle",
+      "radius",
+      "equation",
+      "completing the square",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00094": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "angle",
+      "trisected",
+      "quadrilateral",
+      "geometric properties",
+      "algebraic expressions",
+      "angle measure",
+      "parallel lines",
+      "triangle angles",
+      "quadratic equations",
+      "sine rule",
+      "cosine rule",
+      "area of triangle",
+      "perpendicular lines",
+      "circle theorems",
+      "logarithmic functions"
+    ]
+  },
+  "math_00095": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "vector projection",
+      "dot product",
+      "matrix multiplication",
+      "scalars",
+      "algebra"
+    ]
+  },
+  "math_00096": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic equation",
+      "roots",
+      "rational function",
+      "algebra",
+      "equation solving"
+    ]
+  },
+  "math_00097": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "angle",
+      "direction",
+      "spinning",
+      "geometry",
+      "angles in a circle"
+    ]
+  },
+  "math_00098": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "simplification",
+      "addition",
+      "subtraction",
+      "combining like terms"
+    ]
+  },
+  "math_00099": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "dot product",
+      "cross product",
+      "vector",
+      "algebra",
+      "matrix",
+      "system of equations"
+    ]
+  },
+  "math_00100": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "inscribed polygon",
+      "circle",
+      "angle",
+      "geometric properties",
+      "sum of angles in a triangle",
+      "algebraic manipulation",
+      "triangle inequality theorem",
+      "parallel lines and transversals",
+      "inscribed angle theorem"
+    ]
+  },
+  "math_00101": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex roots",
+      "conjugate pairs",
+      "polynomial equation",
+      "roots of unity",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00102": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "factorization",
+      "polynomial",
+      "common factor",
+      "grouping",
+      "quadratic form"
+    ]
+  },
+  "math_00103": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic function",
+      "fixed point",
+      "iteration",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00104": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "coordinate geometry",
+      "distance formula",
+      "intersection of curves",
+      "sum of distances",
+      "quadratic equations",
+      "simultaneous equations"
+    ]
+  },
+  "math_00105": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "median",
+      "data analysis",
+      "statistics",
+      "number theory"
+    ]
+  },
+  "math_00106": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "horizontal asymptote",
+      "rational function",
+      "asymptotic behavior",
+      "limits at infinity",
+      "algebra",
+      "calculus"
+    ]
+  },
+  "math_00107": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "set",
+      "intersection",
+      "prime numbers",
+      "odd numbers",
+      "number theory",
+      "counting elements"
+    ]
+  },
+  "math_00108": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "ellipse",
+      "foci",
+      "circle",
+      "tangent",
+      "algebraic geometry",
+      "conic sections"
+    ]
+  },
+  "math_00109": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "trigonometric identities",
+      "angle addition formulas",
+      "sine and cosine functions",
+      "tangent function",
+      "algebraic manipulation",
+      "degree measure"
+    ]
+  },
+  "math_00110": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "sequence",
+      "geometric sequence",
+      "arithmetic sequence",
+      "positive integers",
+      "subsequence",
+      "strictly increasing",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00111": {
+    "level": 3,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combination",
+      "binomial coefficient",
+      "permutation",
+      "factorial",
+      "combinatorics"
+    ]
+  },
+  "math_00112": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "rationalizing the denominator",
+      "algebraic manipulation",
+      "radical expressions",
+      "simplification",
+      "rational numbers",
+      "irrational numbers",
+      "integer coefficients",
+      "algebra"
+    ]
+  },
+  "math_00113": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "exponentiation",
+      "difference of squares",
+      "simplification",
+      "binomial theorem"
+    ]
+  },
+  "math_00114": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "product",
+      "integers",
+      "rational function",
+      "partial fraction decomposition",
+      "algebra",
+      "equation solving",
+      "rational expressions",
+      "common denominator",
+      "numerator comparison",
+      "system of equations",
+      "algebraic manipulation"
+    ]
+  },
+  "math_00115": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "factorial",
+      "arrangement",
+      "combinatorics"
+    ]
+  },
+  "math_00116": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "exponentiation",
+      "logarithm",
+      "square root",
+      "algebra",
+      "equation solving"
+    ]
+  },
+  "math_00117": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "square root equation",
+      "algebra",
+      "radical expressions",
+      "solving equations",
+      "quadratic equations",
+      "number theory"
+    ]
+  },
+  "math_00118": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "ordered pairs",
+      "complex numbers",
+      "magnitude",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00119": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "addition",
+      "subtraction",
+      "parenthesization",
+      "algebra",
+      "integer arithmetic"
+    ]
+  },
+  "math_00120": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "function composition",
+      "odd function",
+      "even function",
+      "composite functions",
+      "algebra"
+    ]
+  },
+  "math_00121": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "equation solving",
+      "rational expressions",
+      "least common multiple",
+      "combining like terms"
+    ]
+  },
+  "math_00122": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "inversely proportional",
+      "proportionality constant",
+      "algebra",
+      "cost function",
+      "sales function",
+      "equation solving"
+    ]
+  },
+  "math_00123": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "midpoint",
+      "coordinate geometry",
+      "quadrilateral area",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00124": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "absolute value",
+      "equation",
+      "algebra",
+      "cases",
+      "number theory"
+    ]
+  },
+  "math_00125": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "ceiling function",
+      "exponentiation",
+      "integer part",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00126": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "rational function",
+      "iteration",
+      "fixed points",
+      "complex analysis"
+    ]
+  },
+  "math_00127": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "number system",
+      "numeral systems",
+      "mathematical notation"
+    ]
+  },
+  "math_00128": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "walked",
+      "miles",
+      "days",
+      "integer",
+      "sequence",
+      "function",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00129": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "altitude",
+      "area",
+      "right triangle",
+      "Pythagorean theorem",
+      "trigonometry",
+      "angle",
+      "cosine rule",
+      "sine rule",
+      "function",
+      "coordinate geometry",
+      "distance formula",
+      "midpoint formula",
+      "slope",
+      "line equation"
+    ]
+  },
+  "math_00130": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "modular arithmetic",
+      "integer",
+      "congruence",
+      "number theory"
+    ]
+  },
+  "math_00131": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "quadratic function",
+      "polynomial function",
+      "substitution",
+      "algebra"
+    ]
+  },
+  "math_00132": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "factor",
+      "positive factor",
+      "common factor",
+      "divisibility",
+      "number theory"
+    ]
+  },
+  "math_00133": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "convex quadrilateral",
+      "angle",
+      "right angle",
+      "sum of angles in a quadrilateral",
+      "algebra",
+      "equation",
+      "angle measure"
+    ]
+  },
+  "math_00134": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "hyperbola",
+      "distance formula",
+      "coordinates",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00135": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "factorial",
+      "divisibility",
+      "number theory"
+    ]
+  },
+  "math_00136": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "sequence",
+      "real numbers",
+      "sum",
+      "squares",
+      "cubes",
+      "algebra",
+      "number theory",
+      "equations",
+      "inequalities"
+    ]
+  },
+  "math_00137": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "quadratic equation",
+      "division",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00138": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "combinatorics",
+      "ball selection",
+      "bag content match",
+      "colors",
+      "random selection"
+    ]
+  },
+  "math_00139": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "maximum value",
+      "function of two variables",
+      "square root",
+      "trigonometric functions",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00140": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "greatest common divisor",
+      "gcd",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00141": {
+    "level": 1,
+    "type": "number_theory",
+    "concepts": [
+      "greatest common divisor",
+      "gcd",
+      "integer",
+      "divisibility",
+      "number theory"
+    ]
+  },
+  "math_00142": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "circular permutation",
+      "block arrangement",
+      "set partition",
+      "combinatorics",
+      "rotation symmetry"
+    ]
+  },
+  "math_00143": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "vector",
+      "matrix",
+      "determinant",
+      "area of triangle in 3D space",
+      "cross product"
+    ]
+  },
+  "math_00144": {
+    "level": 1,
+    "type": "precalculus",
+    "concepts": [
+      "parametric equations",
+      "coordinate system",
+      "curves in plane",
+      "algebraic expressions",
+      "substitution",
+      "points on a curve"
+    ]
+  },
+  "math_00145": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "algebraic manipulation",
+      "rational expressions",
+      "quadratic equations",
+      "roots of unity",
+      "exponential functions",
+      "trigonometric identities",
+      "modular arithmetic",
+      "number theory"
+    ]
+  },
+  "math_00146": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "simplification",
+      "rationalizing the denominator",
+      "square root",
+      "algebra"
+    ]
+  },
+  "math_00147": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "optimization",
+      "inequality",
+      "calculus",
+      "AM-GM inequality"
+    ]
+  },
+  "math_00148": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "equation solving",
+      "rational equations",
+      "cross-multiplication",
+      "quadratic equation",
+      "roots",
+      "factoring",
+      "calculus"
+    ]
+  },
+  "math_00149": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "age",
+      "remainder",
+      "divisibility",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00150": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "mod",
+      "remainder",
+      "function",
+      "recursion",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00151": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "distance formula",
+      "squared distance",
+      "determinant",
+      "algebra",
+      "geometric interpretation"
+    ]
+  },
+  "math_00152": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "medians",
+      "centroid",
+      "parallel lines",
+      "area of a triangle",
+      "triangle properties",
+      "geometric relationships"
+    ]
+  },
+  "math_00153": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "set",
+      "probability",
+      "combinatorics",
+      "geometry"
+    ]
+  },
+  "math_00154": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "distance",
+      "shortest path",
+      "right triangle",
+      "Pythagorean theorem",
+      "spatial geometry",
+      "wall",
+      "floor",
+      "ceiling",
+      "coordinates",
+      "distance formula"
+    ]
+  },
+  "math_00155": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "geometric probability",
+      "area",
+      "triangle",
+      "coordinate geometry",
+      "algebra"
+    ]
+  },
+  "math_00156": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "angle",
+      "perpendicular",
+      "right triangle",
+      "trigonometry",
+      "cosine rule",
+      "maximum value",
+      "calculus",
+      "derivative",
+      "optimize function"
+    ]
+  },
+  "math_00157": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "roots",
+      "quadratic equation",
+      "sum of roots",
+      "algebra"
+    ]
+  },
+  "math_00158": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "sum",
+      "multiples",
+      "arithmetic series",
+      "number theory"
+    ]
+  },
+  "math_00159": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "quadratic equation",
+      "completing the square",
+      "algebra",
+      "constants",
+      "decimals"
+    ]
+  },
+  "math_00160": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "product",
+      "consecutive integers",
+      "even numbers",
+      "algebraic equation",
+      "quadratic equation",
+      "roots",
+      "integer solutions"
+    ]
+  },
+  "math_00161": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "logarithm",
+      "base 2 logarithm",
+      "exponentiation",
+      "number theory"
+    ]
+  },
+  "math_00162": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "probability",
+      "divisibility",
+      "integer",
+      "set",
+      "number theory",
+      "gcd",
+      "lcm"
+    ]
+  },
+  "math_00163": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "expression",
+      "maximization",
+      "rational function",
+      "common fraction"
+    ]
+  },
+  "math_00164": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "trigonometric identities",
+      "sine",
+      "tangent",
+      "angle addition formulas",
+      "calculus",
+      "differentiation",
+      "algebra"
+    ]
+  },
+  "math_00165": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "total number of books",
+      "number of books on each shelf",
+      "books taken off each shelf",
+      "remaining books",
+      "math books remaining",
+      "fraction of math books remaining",
+      "common fraction"
+    ]
+  },
+  "math_00166": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "angle",
+      "geometric figure",
+      "square",
+      "regular heptagon",
+      "coplanar",
+      "common side",
+      "angle measure",
+      "combinatorial geometry"
+    ]
+  },
+  "math_00167": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "volume",
+      "cone",
+      "area",
+      "base",
+      "height",
+      "cubic units",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00168": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "counting",
+      "combinatorics",
+      "squares",
+      "grid",
+      "algebra"
+    ]
+  },
+  "math_00169": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "area",
+      "triangle",
+      "sides",
+      "mathematical formula",
+      "number theory",
+      "geometric properties"
+    ]
+  },
+  "math_00170": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "product",
+      "distinct solutions",
+      "equations",
+      "algebra",
+      "quadratic equation",
+      "roots",
+      "factorization",
+      "number theory"
+    ]
+  },
+  "math_00171": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "addition",
+      "fraction",
+      "part of whole",
+      "common denominator",
+      "algebra"
+    ]
+  },
+  "math_00172": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "arithmetic sequence",
+      "term",
+      "common difference",
+      "algebra",
+      "sequence"
+    ]
+  },
+  "math_00173": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "geometric series",
+      "sum of series",
+      "perfect square",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00174": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "quadratic equation",
+      "roots",
+      "parabola",
+      "y-intercept"
+    ]
+  },
+  "math_00175": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "integer",
+      "linear equation",
+      "modular arithmetic",
+      "algebra"
+    ]
+  },
+  "math_00176": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "rational number",
+      "Terminating Decimal",
+      "Fraction",
+      "Prime Factorization",
+      "Exponentiation",
+      "Division",
+      "Decimal Representation"
+    ]
+  },
+  "math_00177": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "circle",
+      "radius",
+      "tangent",
+      "triangle",
+      "angle",
+      "geometric properties",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00178": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "square root",
+      "product",
+      "integer",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00179": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "equation of a plane",
+      "points in space",
+      "vectors",
+      "determinant",
+      "system of linear equations",
+      "normal vector",
+      "algebra",
+      "gcd",
+      "integer coefficients"
+    ]
+  },
+  "math_00180": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "factors",
+      "greatest common divisor",
+      "number theory",
+      "divisibility"
+    ]
+  },
+  "math_00181": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "rationalizing the denominator",
+      "simplifying nested radicals",
+      "rational exponents",
+      "algebra",
+      "radical expressions"
+    ]
+  },
+  "math_00182": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "proportion",
+      "equation",
+      "number theory"
+    ]
+  },
+  "math_00183": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "rationalizing the denominator",
+      "simplifying expressions",
+      "manipulating surds",
+      "rational numbers",
+      "integer coefficients",
+      "least common multiple",
+      "algebraic fractions"
+    ]
+  },
+  "math_00184": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "positive real numbers",
+      "set of all possible values",
+      "rational expressions"
+    ]
+  },
+  "math_00185": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "exponentiation",
+      "equation",
+      "logarithm",
+      "algebra"
+    ]
+  },
+  "math_00186": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "perfect powers",
+      "integer solutions",
+      "number theory",
+      "divisors"
+    ]
+  },
+  "math_00187": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "dimes",
+      "nickels",
+      "total value",
+      "coin problem",
+      "number theory"
+    ]
+  },
+  "math_00188": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "equation",
+      "intersection",
+      "function",
+      "floor function",
+      "Euler's totient function",
+      "polynomial",
+      "exponential function",
+      "binomial coefficient",
+      "factorial",
+      "greatest common divisor",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00189": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "geometry",
+      "distance",
+      "triangle inequality",
+      "optimization",
+      "algebra"
+    ]
+  },
+  "math_00190": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "prime numbers",
+      "sum",
+      "even number",
+      "probability",
+      "random choice",
+      "first six primes",
+      "arithmetic",
+      "number theory"
+    ]
+  },
+  "math_00191": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "point",
+      "line equation",
+      "substitution",
+      "algebra"
+    ]
+  },
+  "math_00192": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "median",
+      "length",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00193": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "integer coefficients",
+      "rational root theorem",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00194": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "maximum value",
+      "real numbers",
+      "algebra",
+      "optimization",
+      "rational function",
+      "calculus",
+      "partial derivatives",
+      "Lagrange multipliers",
+      "algebraic geometry"
+    ]
+  },
+  "math_00195": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "roots",
+      "monic",
+      "degree",
+      "function",
+      "integer",
+      "algebra"
+    ]
+  },
+  "math_00196": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "quadratic equation",
+      "roots",
+      "factoring",
+      "arithmetic operations"
+    ]
+  },
+  "math_00197": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "factorial",
+      "positive factor",
+      "integer values",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00198": {
+    "level": 3,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "factorial",
+      "arrangement",
+      "combinatorics"
+    ]
+  },
+  "math_00199": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "arithmetic mean",
+      "algebra",
+      "equation",
+      "sum",
+      "number theory"
+    ]
+  },
+  "math_00200": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "unit conversion",
+      "mathematical modeling"
+    ]
+  },
+  "math_00201": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "number theory",
+      "modular arithmetic",
+      "linear congruences",
+      "algebra"
+    ]
+  },
+  "math_00202": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "probability",
+      "game theory",
+      "Markov chain",
+      "states",
+      "transitions",
+      "equations",
+      "algebra"
+    ]
+  },
+  "math_00203": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "remainder theorem",
+      "polynomial division",
+      "modular arithmetic",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00204": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "modulus",
+      "roots of unity",
+      "symmetry",
+      "algebraic manipulation",
+      "triangle inequality",
+      "maximum value",
+      "function evaluation"
+    ]
+  },
+  "math_00205": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "matrix",
+      "linear transformation",
+      "vector",
+      "system of linear equations",
+      "algebra"
+    ]
+  },
+  "math_00206": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "line",
+      "parametric equations",
+      "slope-intercept form",
+      "algebra",
+      "vectors"
+    ]
+  },
+  "math_00207": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combination",
+      "permutation",
+      "topping",
+      "pizza",
+      "combinatorics"
+    ]
+  },
+  "math_00208": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "divisibility",
+      "gcd",
+      "integer",
+      "number theory",
+      "set",
+      "sequence"
+    ]
+  },
+  "math_00209": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "cubing",
+      "two-digit number",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00210": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "rectangle",
+      "area",
+      "square",
+      "fill",
+      "grid",
+      "diagonal",
+      "length",
+      "width"
+    ]
+  },
+  "math_00211": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "exponentiation",
+      "division of powers with same base",
+      "subtraction",
+      "multiplication of powers with same base",
+      "integer result from operations on powers"
+    ]
+  },
+  "math_00212": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "integer solutions",
+      "scoring system",
+      "linear equation"
+    ]
+  },
+  "math_00213": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "infinite series",
+      "sum",
+      "Fibonacci sequence",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00214": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "set",
+      "intersection",
+      "union",
+      "complement",
+      "calculus",
+      "physics",
+      "chemistry",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00215": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "quadratic equation",
+      "roots",
+      "cubic expression",
+      "algebra",
+      "substitution",
+      "simplification"
+    ]
+  },
+  "math_00216": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "conversion rates",
+      "ratio",
+      "units",
+      "algebra",
+      "system of equations"
+    ]
+  },
+  "math_00217": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "multiple",
+      "divisibility",
+      "number theory",
+      "integer",
+      "algebra"
+    ]
+  },
+  "math_00218": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "midpoint",
+      "coordinates",
+      "distance formula",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00219": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "modular arithmetic",
+      "probability",
+      "remainder",
+      "checkerboard",
+      "number theory"
+    ]
+  },
+  "math_00220": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "leak",
+      "rate",
+      "decrease",
+      "distance",
+      "gallon",
+      "buckets",
+      "calculus",
+      "integration",
+      "exponential decay"
+    ]
+  },
+  "math_00221": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "product",
+      "integer",
+      "perfect cube",
+      "number theory",
+      "divisibility"
+    ]
+  },
+  "math_00222": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "area",
+      "triangle",
+      "parallel lines",
+      "proportions",
+      "algebra"
+    ]
+  },
+  "math_00223": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "sum of digits",
+      "terminating decimal",
+      "fraction",
+      "denominator",
+      "numerator",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00224": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "angle",
+      "product",
+      "trigonometric identity",
+      "calculus",
+      "number theory"
+    ]
+  },
+  "math_00225": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "expansion",
+      "substitution",
+      "simplification",
+      "polynomial",
+      "linear algebra"
+    ]
+  },
+  "math_00226": {
+    "level": 3,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combinatorics",
+      "integer partition",
+      "set theory",
+      "counting principles"
+    ]
+  },
+  "math_00227": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "cylindrical coordinates",
+      "equation",
+      "shape",
+      "constant",
+      "algebra"
+    ]
+  },
+  "math_00228": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "distance",
+      "plane equation",
+      "squared distance",
+      "set of points",
+      "volume enclosed by S"
+    ]
+  },
+  "math_00229": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "combination",
+      "permutation",
+      "menu items",
+      "dishes",
+      "orderings",
+      "combinatorics"
+    ]
+  },
+  "math_00230": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "real numbers",
+      "algebra",
+      "inequality",
+      "optimization",
+      "quadratic equation",
+      "sum of squares"
+    ]
+  },
+  "math_00231": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "average",
+      "age",
+      "algebra",
+      "system of equations",
+      "linear equation",
+      "integer solution",
+      "word problem",
+      "age difference",
+      "ratio"
+    ]
+  },
+  "math_00232": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "roots of unity",
+      "sum of series",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00233": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "vector",
+      "cross product",
+      "magnitude",
+      "angle between vectors",
+      "dot product",
+      "sine function",
+      "calculus",
+      "algebra"
+    ]
+  },
+  "math_00234": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "function",
+      "polynomial",
+      "roots",
+      "sum of roots",
+      "calculus",
+      "differentiation",
+      "algebra"
+    ]
+  },
+  "math_00235": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "decimal",
+      "repeating decimal",
+      "common fraction",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00236": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "trigonometric functions",
+      "cosine",
+      "sine",
+      "reciprocal",
+      "angle",
+      "algebra",
+      "number theory",
+      "combinatorics"
+    ]
+  },
+  "math_00237": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "positive numbers",
+      "product of variables",
+      "sum of variables"
+    ]
+  },
+  "math_00238": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "domain",
+      "rational function",
+      "absolute value",
+      "quadratic equation",
+      "algebra"
+    ]
+  },
+  "math_00239": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "algebra",
+      "geometry",
+      "parallel lines",
+      "area of parallelogram",
+      "solving equations",
+      "positive integers"
+    ]
+  },
+  "math_00240": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "parallel lines",
+      "angle measure",
+      "supplementary angles",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00241": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "distance",
+      "graph of a function",
+      "minimum value",
+      "coordinate geometry",
+      "algebra"
+    ]
+  },
+  "math_00242": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "compound interest",
+      "exponential growth",
+      "time period",
+      "interest rate",
+      "total amount"
+    ]
+  },
+  "math_00243": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "sides",
+      "integer",
+      "triangle inequality theorem",
+      "algebra"
+    ]
+  },
+  "math_00244": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "convex polygon",
+      "interior angle sum",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00245": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "remainder theorem",
+      "polynomial division",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00246": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "portion size",
+      "total food",
+      "number of friends",
+      "meals ordered",
+      "division",
+      "ratio",
+      "algebra"
+    ]
+  },
+  "math_00247": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic polynomial",
+      "integer coefficients",
+      "root",
+      "algebra",
+      "polynomial evaluation",
+      "rational expression simplification",
+      "number theory"
+    ]
+  },
+  "math_00248": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "matrix",
+      "exponentiation of matrix",
+      "eigenvalues and eigenvectors",
+      "diagonalization",
+      "linear algebra",
+      "algebraic manipulation"
+    ]
+  },
+  "math_00249": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "odd integer",
+      "modular arithmetic",
+      "inverse modulo",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00250": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "x-intercept",
+      "y-intercept",
+      "slope",
+      "line equation",
+      "algebra"
+    ]
+  },
+  "math_00251": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "arrangement",
+      "combinatorics",
+      "distinguishable objects"
+    ]
+  },
+  "math_00252": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "quadratic function",
+      "maximum value",
+      "vertex form",
+      "calculus",
+      "derivative",
+      "critical points",
+      "algebra"
+    ]
+  },
+  "math_00253": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "fraction",
+      "length conversion",
+      "units",
+      "algebra"
+    ]
+  },
+  "math_00254": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combination",
+      "combinatorics",
+      "set",
+      "integer",
+      "algebra"
+    ]
+  },
+  "math_00255": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "polar coordinates",
+      "conic sections",
+      "elliptical coordinates",
+      "hyperbolic coordinates",
+      "calculus",
+      "algebra"
+    ]
+  },
+  "math_00256": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "multiplication",
+      "division",
+      "fraction simplification",
+      "algebra"
+    ]
+  },
+  "math_00257": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "total surface area",
+      "cube",
+      "volume",
+      "square inches",
+      "cubic foot",
+      "mathematical conversion",
+      "geometric properties"
+    ]
+  },
+  "math_00258": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "ratio",
+      "algebra",
+      "system of equations",
+      "marbles",
+      "blue marbles",
+      "yellow marbles",
+      "addition",
+      "subtraction",
+      "proportion"
+    ]
+  },
+  "math_00259": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "product",
+      "radical conjugate",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00260": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "dot product",
+      "cosine similarity",
+      "angle between vectors",
+      "vector algebra",
+      "geometric interpretation"
+    ]
+  },
+  "math_00261": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "inscribed angle",
+      "diameter",
+      "circle",
+      "angle measure",
+      "geometric properties",
+      "number theory"
+    ]
+  },
+  "math_00262": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "exponentiation",
+      "algebraic equation",
+      "logarithm",
+      "number theory"
+    ]
+  },
+  "math_00263": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "regular polygon",
+      "interior angle",
+      "exterior angle",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00264": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "square",
+      "rectangle",
+      "length",
+      "distance",
+      "quadrilateral",
+      "angle bisector",
+      "intersection point",
+      "parallel lines",
+      "right angle",
+      "isosceles right triangle",
+      "Pythagorean theorem"
+    ]
+  },
+  "math_00265": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "sequence",
+      "odd numbers",
+      "arithmetic sequence",
+      "term index",
+      "number theory"
+    ]
+  },
+  "math_00266": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "probability",
+      "multiple of 3",
+      "counting",
+      "number theory",
+      "inclusive range"
+    ]
+  },
+  "math_00267": {
+    "level": 1,
+    "type": "geometry",
+    "concepts": [
+      "circle",
+      "tangent line",
+      "angle measure",
+      "geometric properties",
+      "algebraic manipulation",
+      "number theory",
+      "combinatorics",
+      "probability"
+    ]
+  },
+  "math_00268": {
+    "level": 1,
+    "type": "number_theory",
+    "concepts": [
+      "arithmetic series",
+      "sum of integers",
+      "modulus",
+      "remainder",
+      "algebra"
+    ]
+  },
+  "math_00269": {
+    "level": 3,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "combinatorics",
+      "indistinguishable objects",
+      "arrangement"
+    ]
+  },
+  "math_00270": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "ticket cost",
+      "full price",
+      "discount",
+      "percentage",
+      "total cost",
+      "difference in cost"
+    ]
+  },
+  "math_00271": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "modular arithmetic",
+      "multiplicative inverse",
+      "number theory",
+      "gcd",
+      "integer",
+      "modulus"
+    ]
+  },
+  "math_00272": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "repeating decimal",
+      "fraction",
+      "greatest common divisor",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00273": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "Exchange rate",
+      "Conversion factor",
+      "Rounding",
+      "Arithmetic operations",
+      "Money",
+      "Rate",
+      "Proportionality",
+      "Algebraic expressions",
+      "Real-world application of math concepts"
+    ]
+  },
+  "math_00274": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "nonagon",
+      "perimeter",
+      "union",
+      "set",
+      "distance",
+      "geometric shapes",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00275": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "composite function",
+      "algebra",
+      "evaluation"
+    ]
+  },
+  "math_00276": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "real numbers",
+      "square root function",
+      "integer values",
+      "algebraic equations",
+      "number theory"
+    ]
+  },
+  "math_00277": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "square root",
+      "radical form",
+      "irrational number",
+      "approximation",
+      "number theory"
+    ]
+  },
+  "math_00278": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "base 2",
+      "integer",
+      "binary",
+      "number theory",
+      "base conversion"
+    ]
+  },
+  "math_00279": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "area of a circle",
+      "concentric circles",
+      "regions",
+      "greatest area",
+      "smallest area",
+      "difference between areas",
+      "exact form"
+    ]
+  },
+  "math_00280": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "algebra",
+      "prime numbers",
+      "divisors",
+      "integer expressions",
+      "number theory"
+    ]
+  },
+  "math_00281": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "regular pentagon",
+      "star",
+      "angle measure",
+      "geometric properties",
+      "parallel lines",
+      "isosceles triangles",
+      "circle inscribed in polygon",
+      "central angle",
+      "inscribed angle",
+      "exterior angle theorem",
+      "sum of interior angles of a polygon"
+    ]
+  },
+  "math_00282": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "sequence",
+      "integer",
+      "addition",
+      "multiplication",
+      "calculus",
+      "number theory"
+    ]
+  },
+  "math_00283": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "exponentiation",
+      "rational numbers",
+      "multiplication",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00284": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "arctangent",
+      "arccotangent",
+      "trigonometric identity",
+      "algebraic manipulation",
+      "transcendental equation",
+      "approximation methods",
+      "number theory"
+    ]
+  },
+  "math_00285": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "roots",
+      "integer",
+      "algebra",
+      "factorization",
+      "quadratic equation",
+      "positive integer",
+      "combinatorics"
+    ]
+  },
+  "math_00286": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "set",
+      "triangles",
+      "sides",
+      "positive integers",
+      "exponents",
+      "sum",
+      "Triples",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00287": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "gear ratio",
+      "least common multiple",
+      "angular velocity",
+      "time period",
+      "number theory"
+    ]
+  },
+  "math_00288": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "parallel lines",
+      "vector",
+      "distance between skew lines",
+      "algebra",
+      "matrix",
+      "determinant"
+    ]
+  },
+  "math_00289": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "AM-GM inequality",
+      "harmonic mean",
+      "positive real numbers"
+    ]
+  },
+  "math_00290": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "rational equation",
+      "polynomial division",
+      "quadratic equation",
+      "roots",
+      "factorization",
+      "calculus",
+      "differentiation",
+      "integration",
+      "number theory",
+      "combinatorics"
+    ]
+  },
+  "math_00291": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "rectangle",
+      "integer coordinates",
+      "interior points",
+      "counting",
+      "number theory"
+    ]
+  },
+  "math_00292": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "sequence",
+      "recurrence relation",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00293": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "inequality",
+      "algebra",
+      "solving inequalities",
+      "reducing fractions",
+      "interval notation",
+      "number theory"
+    ]
+  },
+  "math_00294": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "palindrome",
+      "sum",
+      "consecutive integers",
+      "three-digit number",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00295": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "complex numbers",
+      "roots of unity",
+      "convex polygon",
+      "area of a polygon",
+      "prime factorization",
+      "greatest common divisor",
+      "algebraic geometry",
+      "number theory"
+    ]
+  },
+  "math_00296": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "exponential function",
+      "logarithm",
+      "algebraic manipulation",
+      "inequality",
+      "function behavior",
+      "maximization",
+      "calculus concepts (if needed)"
+    ]
+  },
+  "math_00297": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "number theory",
+      "leaves",
+      "pages",
+      "integer",
+      "modulus",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00298": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "cross product",
+      "vector",
+      "matrix determinant",
+      "algebraic manipulation",
+      "vector space"
+    ]
+  },
+  "math_00299": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "rectangle",
+      "integer coordinates",
+      "area",
+      "counting",
+      "geometry"
+    ]
+  },
+  "math_00300": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "circle",
+      "intersection",
+      "combinatorics",
+      "plane geometry"
+    ]
+  },
+  "math_00301": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "stamps",
+      "centroids",
+      "data",
+      "mathematical concepts",
+      "average price",
+      "cent",
+      "crons",
+      "decades",
+      "data representation",
+      "bar graph",
+      "table",
+      "mathematical analysis",
+      "data interpretation",
+      "mathematical problem solving",
+      "data visualization"
+    ]
+  },
+  "math_00302": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "repeating decimal",
+      "decimal conversion",
+      "rational numbers",
+      "number theory"
+    ]
+  },
+  "math_00303": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "trapezoid",
+      "parallel lines",
+      "perpendicular lines",
+      "angle bisector",
+      "area of a trapezoid",
+      "area of a triangle",
+      "geometric properties",
+      "algebraic expressions"
+    ]
+  },
+  "math_00304": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "minimization",
+      "rational function",
+      "calculus",
+      "derivative",
+      "critical points",
+      "second derivative test",
+      "asymptotes",
+      "end behavior",
+      "extrema"
+    ]
+  },
+  "math_00305": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "square root",
+      "rational equation",
+      "solving equations",
+      "fractional form",
+      "radical expressions",
+      "rationalizing the denominator"
+    ]
+  },
+  "math_00306": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic equation",
+      "roots",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00307": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "range",
+      "logarithmic function",
+      "square root",
+      "sine function",
+      "domain",
+      "angle measure",
+      "trigonometry",
+      "algebra"
+    ]
+  },
+  "math_00308": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "regular tetrahedron",
+      "plane section",
+      "geometric shapes",
+      "surface area",
+      "algebraic expressions",
+      "geometric properties"
+    ]
+  },
+  "math_00309": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "product",
+      "sum",
+      "integer",
+      "set",
+      "number theory",
+      "minimization"
+    ]
+  },
+  "math_00310": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "operation",
+      "simplified fractions",
+      "multiplication",
+      "division",
+      "algebra"
+    ]
+  },
+  "math_00311": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "sum",
+      "integer",
+      "modulus",
+      "number theory",
+      "arithmetic series"
+    ]
+  },
+  "math_00312": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "inequality",
+      "rational function",
+      "domain",
+      "number line",
+      "interval notation",
+      "algebra"
+    ]
+  },
+  "math_00313": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "circumference",
+      "radius",
+      "revolutions",
+      "time",
+      "speed",
+      "distance",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00314": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "reflection",
+      "coordinate geometry",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00315": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "geometric sequence",
+      "integer ratio",
+      "positive integers",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00316": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "quadratic equation",
+      "factoring",
+      "algebra",
+      "integer coefficients",
+      "roots of polynomial",
+      "system of equations",
+      "polynomial multiplication",
+      "binomial theorem"
+    ]
+  },
+  "math_00317": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "degree of polynomial",
+      "rational function",
+      "numerator",
+      "denominator",
+      "algebraic expression",
+      "real numbers",
+      "distinct",
+      "function",
+      "polynomial identity"
+    ]
+  },
+  "math_00318": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "rational expressions",
+      "common denominator",
+      "simplifying fractions",
+      "combining fractions",
+      "polynomial addition",
+      "polynomial subtraction",
+      "fraction operations"
+    ]
+  },
+  "math_00319": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "absolute value",
+      "equation solving",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00320": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "sine",
+      "cosine",
+      "right triangle",
+      "trigonometric identities",
+      "angle relationships",
+      "coordinate geometry",
+      "triangle properties",
+      "Pythagorean theorem"
+    ]
+  },
+  "math_00321": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "constant speed",
+      "distance",
+      "time",
+      "rate",
+      "unit conversion",
+      "algebra"
+    ]
+  },
+  "math_00322": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "composite function",
+      "algebra",
+      "substitution",
+      "linear equation",
+      "solving for a variable"
+    ]
+  },
+  "math_00323": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "geometric probability",
+      "circle",
+      "line segments",
+      "intersection",
+      "random points",
+      "combinatorics",
+      "circular permutations"
+    ]
+  },
+  "math_00324": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "angle",
+      "circle",
+      "radius",
+      "area",
+      "shaded region",
+      "larger circle",
+      "smaller circle",
+      "sectors",
+      "arc length",
+      "central angle",
+      "inscribed angle",
+      "geometric probability",
+      "number theory",
+      "algebra",
+      "trigonometry"
+    ]
+  },
+  "math_00325": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "volume",
+      "cylinder",
+      "sphere",
+      "radius",
+      "height",
+      "algebra",
+      "geometric formulas",
+      "comparisons"
+    ]
+  },
+  "math_00326": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "arcsine",
+      "trigonometric identity",
+      "algebraic manipulation",
+      "calculus"
+    ]
+  },
+  "math_00327": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "remainder theorem",
+      "divisibility",
+      "algebra",
+      "system of equations",
+      "roots",
+      "matrix",
+      "determinant"
+    ]
+  },
+  "math_00328": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "floor function",
+      "real numbers",
+      "range",
+      "discrete mathematics"
+    ]
+  },
+  "math_00329": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "speed",
+      "unit conversion",
+      "feet to inches",
+      "minutes to seconds",
+      "algebra"
+    ]
+  },
+  "math_00330": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combination",
+      "permutation",
+      "binomial coefficient",
+      "combinatorics",
+      "integer",
+      "set",
+      "function",
+      "domains"
+    ]
+  },
+  "math_00331": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "square root",
+      "rationalize the denominator",
+      "simplify fraction",
+      "radical expressions",
+      "algebraic manipulation",
+      "rational expressions",
+      "number theory",
+      "irrational numbers"
+    ]
+  },
+  "math_00332": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "AM-GM inequality",
+      "positive real numbers",
+      "minimization problem"
+    ]
+  },
+  "math_00333": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "cube root",
+      "infinite continued fraction",
+      "number theory",
+      "approximation methods"
+    ]
+  },
+  "math_00334": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "addition",
+      "subtraction",
+      "multiplication",
+      "solving equations",
+      "Variables",
+      "constants",
+      "linear equations",
+      "quadratic equations",
+      "determinant",
+      "matrix",
+      "function",
+      "domain",
+      "range"
+    ]
+  },
+  "math_00335": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "Fibonacci sequence",
+      "modulus",
+      "remainder",
+      "number theory",
+      "sequence"
+    ]
+  },
+  "math_00336": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "difference of squares",
+      "exponentiation",
+      "number theory"
+    ]
+  },
+  "math_00337": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "product",
+      "consecutive integers",
+      "mean",
+      "algebra",
+      "equation solving",
+      "integer solutions"
+    ]
+  },
+  "math_00338": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "number system",
+      "integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00339": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "parabola",
+      "vertex form",
+      "reflected parabola",
+      "quadratic equation",
+      "coefficient sum",
+      "algebraic manipulation"
+    ]
+  },
+  "math_00340": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "vectors",
+      "angle between vectors",
+      "dot product",
+      "cosine rule",
+      "algebra",
+      "trigonometry"
+    ]
+  },
+  "math_00341": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "number theory",
+      "reciprocal",
+      "algebra",
+      "equation solving"
+    ]
+  },
+  "math_00342": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "inequality",
+      "fraction",
+      "integer",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00343": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "combinatorics",
+      "factorial",
+      "licenses plates",
+      "algebra"
+    ]
+  },
+  "math_00344": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "piecewise function",
+      "continuity",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00345": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "composite function",
+      "square root",
+      "algebra"
+    ]
+  },
+  "math_00346": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "cubic root",
+      "equation solving",
+      "algebra",
+      "roots",
+      "quadratic equation",
+      "factorization",
+      "number theory"
+    ]
+  },
+  "math_00347": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "simplification",
+      "polynomial",
+      "like terms",
+      "coefficient",
+      "exponent",
+      "linear combination"
+    ]
+  },
+  "math_00348": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "binomial coefficient",
+      "combinations",
+      "factorial",
+      "algebra"
+    ]
+  },
+  "math_00349": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "combinatorics",
+      "square table arrangement",
+      "rotational symmetry"
+    ]
+  },
+  "math_00350": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "units digit",
+      "modular arithmetic",
+      "number theory",
+      "exponentiation"
+    ]
+  },
+  "math_00351": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "trigonometric functions",
+      "cosine",
+      "angle multiplication",
+      "reduction formula",
+      "calculus"
+    ]
+  },
+  "math_00352": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "isosceles triangle",
+      "altitude",
+      "angle bisector",
+      "perimeter",
+      "triangle inequality",
+      "geometric properties",
+      "algebraic manipulation",
+      "trigonometry",
+      "coordinate geometry",
+      "system of equations",
+      "quadratic equation",
+      "roots",
+      "factorization",
+      "integer solutions",
+      "Pythagorean theorem"
+    ]
+  },
+  "math_00353": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "permutation",
+      "arrangement",
+      "combinatorics",
+      "math books",
+      "stacking",
+      "restrictions"
+    ]
+  },
+  "math_00354": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "sum",
+      "consecutive integers",
+      "median",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00355": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "minimization",
+      "real numbers",
+      "positive real numbers",
+      "function",
+      "polynomial",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00356": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "inequality",
+      "real numbers",
+      "polynomial",
+      "algebra",
+      "interval notation"
+    ]
+  },
+  "math_00357": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "division",
+      "integer division",
+      "number theory",
+      "combinatorics"
+    ]
+  },
+  "math_00358": {
+    "level": 2,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "conic sections",
+      "algebra",
+      "equation of a conic",
+      "parabola",
+      "circle",
+      "ellipse",
+      "hyperbola",
+      "line",
+      "point"
+    ]
+  },
+  "math_00359": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "symmetric polynomials",
+      "roots of polynomial",
+      "number theory"
+    ]
+  },
+  "math_00360": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "parametric equation",
+      "direction vector",
+      "line equation",
+      "algebra",
+      "coordinates",
+      "slope",
+      "linear equations"
+    ]
+  },
+  "math_00361": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "equilateral triangle",
+      "parabola",
+      "coordinates",
+      "distance formula",
+      "algebraic equation",
+      "geometric properties",
+      "symmetry",
+      "trigonometry",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00362": {
+    "level": 1,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "independent events",
+      "fraction",
+      "classroom selection",
+      "voting system"
+    ]
+  },
+  "math_00363": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "reciprocal",
+      "equation",
+      "number theory",
+      "solving equations"
+    ]
+  },
+  "math_00364": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "circle",
+      "reflection",
+      "algebraic equation",
+      "coordinates",
+      "geometric transformation",
+      "quadratic form"
+    ]
+  },
+  "math_00365": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "greatest common divisor",
+      "least common multiple",
+      "integer",
+      "number theory",
+      "divisibility"
+    ]
+  },
+  "math_00366": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "modulus",
+      "arithmetic series",
+      "sum of series",
+      "integer arithmetic",
+      "number theory"
+    ]
+  },
+  "math_00367": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "inverse function",
+      "evaluation",
+      "algebra"
+    ]
+  },
+  "math_00368": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "sides",
+      "perimeter",
+      "whole number",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00369": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "area",
+      "trapezoid",
+      "right triangle",
+      "Pythagorean theorem",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00370": {
+    "level": 1,
+    "type": "precalculus",
+    "concepts": [
+      "dot product",
+      "matrix multiplication",
+      "vector",
+      "algebra"
+    ]
+  },
+  "math_00371": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "inequality",
+      "real numbers",
+      "polynomial",
+      "maximum value",
+      "absolute value"
+    ]
+  },
+  "math_00372": {
+    "level": 2,
+    "type": "geometry",
+    "concepts": [
+      "triangle",
+      "angle",
+      "isosceles triangle",
+      "angle bisector",
+      "circle inscribed in a triangle",
+      "angle measure",
+      "geometric properties",
+      "triangle inequality"
+    ]
+  },
+  "math_00373": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "complex numbers",
+      "division of complex numbers",
+      "algebra",
+      "imaginary numbers",
+      "rationalizing the denominator"
+    ]
+  },
+  "math_00374": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "square root",
+      "cube root",
+      "real numbers",
+      "algebra"
+    ]
+  },
+  "math_00375": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "sum of divisors",
+      "positive divisors",
+      "prime factorization",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00376": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "distance formula",
+      "equation of a line",
+      "coordinates",
+      "algebra",
+      "solving equations",
+      "geometric interpretation"
+    ]
+  },
+  "math_00377": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "superfactorial",
+      "units digit",
+      "factorial",
+      "number theory",
+      "modular arithmetic"
+    ]
+  },
+  "math_00378": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "prime number",
+      "two-digit number",
+      "sum of digits",
+      "number theory",
+      "arithmetic"
+    ]
+  },
+  "math_00379": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "percent",
+      "table",
+      "data",
+      "-grade",
+      "bus riders",
+      "males",
+      "females",
+      "comparisons",
+      "ratios",
+      "algebra"
+    ]
+  },
+  "math_00380": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "inequality",
+      "absolute value",
+      "rational function",
+      "asymptotes",
+      "test intervals",
+      "sign analysis",
+      "algebra",
+      "calculus"
+    ]
+  },
+  "math_00381": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "triangle inequality theorem",
+      "random selection",
+      "geometric probability",
+      "algebraic inequalities"
+    ]
+  },
+  "math_00382": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "perimeter",
+      "semicircle",
+      "circle",
+      "rectangle",
+      "area",
+      "maximization",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00383": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "quadratic inequality",
+      "algebra",
+      "roots",
+      "interval notation",
+      "number theory"
+    ]
+  },
+  "math_00384": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "simplification",
+      "like terms",
+      "arithmetic operations"
+    ]
+  },
+  "math_00385": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "half",
+      "usd",
+      "pounds",
+      "euros",
+      "conversion rate",
+      "difference",
+      "rounding",
+      "algebra"
+    ]
+  },
+  "math_00386": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "absolute value",
+      "inequality",
+      "solution set",
+      "integers",
+      "number theory"
+    ]
+  },
+  "math_00387": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "evaluation",
+      "polynomial",
+      "algebra"
+    ]
+  },
+  "math_00388": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "square root",
+      "domain of a function",
+      "algebra",
+      "inequality",
+      "real numbers"
+    ]
+  },
+  "math_00389": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "sine",
+      "right triangle",
+      "trigonometry",
+      "angle",
+      "hypotenuse",
+      "opposite side",
+      "adjacent side"
+    ]
+  },
+  "math_00390": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "distance formula",
+      "minimization problem",
+      "algebraic expression",
+      "quadratic equation",
+      "roots",
+      "optimization",
+      "calculus",
+      "derivative",
+      "second derivative test",
+      "algebra"
+    ]
+  },
+  "math_00391": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "piecewise function",
+      "inverse function",
+      "algebra",
+      "calculus"
+    ]
+  },
+  "math_00392": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "distance",
+      "regular octahedron",
+      "vertices",
+      "geometric properties",
+      "algebraic manipulation",
+      "solving equations",
+      "number theory",
+      "combinatorics"
+    ]
+  },
+  "math_00393": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "physics formula",
+      "force",
+      "mass",
+      "acceleration",
+      "ratio",
+      "fraction"
+    ]
+  },
+  "math_00394": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "function",
+      "paraboloid",
+      "minimization",
+      "maximization",
+      "game theory",
+      "strategies",
+      "calculus",
+      "partial derivatives",
+      "optimization"
+    ]
+  },
+  "math_00395": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "roots",
+      "exponents",
+      "simplification",
+      "radicals",
+      "cubic root",
+      "rational exponents"
+    ]
+  },
+  "math_00396": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "quadrilateral",
+      "square",
+      "area",
+      "isosceles triangle",
+      "tangram",
+      "geometric shapes",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00397": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "linear equation",
+      "solving equations",
+      "Combine like terms",
+      "distributive property",
+      "isolate variable",
+      "mathematical operations",
+      "simplification"
+    ]
+  },
+  "math_00398": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "currency conversion",
+      "wage calculation",
+      "comparative analysis",
+      "algebra"
+    ]
+  },
+  "math_00399": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "addition",
+      "decimal",
+      "number system",
+      "arithmetic"
+    ]
+  },
+  "math_00400": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "circle",
+      "radius",
+      "right angle",
+      "semicircle",
+      "tangent",
+      "geometric properties",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00401": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "modulus",
+      "triangle inequality",
+      "algebraic manipulation",
+      "maximum value",
+      "function of a complex variable"
+    ]
+  },
+  "math_00402": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "complex numbers",
+      "rotation",
+      "clockwise",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00403": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "base conversion",
+      "number theory",
+      "digit analysis",
+      "numeral systems"
+    ]
+  },
+  "math_00404": {
+    "level": 1,
+    "type": "counting_&_probability",
+    "concepts": [
+      "set",
+      "box",
+      "pencil",
+      "pen",
+      "intersection",
+      "union",
+      "complement",
+      "counting principle",
+      "set theory"
+    ]
+  },
+  "math_00405": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "permutation",
+      "factorial",
+      "arrangement",
+      "combinatorics"
+    ]
+  },
+  "math_00406": {
+    "level": 1,
+    "type": "number_theory",
+    "concepts": [
+      "remainder",
+      "division",
+      "modulus",
+      "number theory"
+    ]
+  },
+  "math_00407": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "inverse function",
+      "rational function",
+      "algebra",
+      "equation solving",
+      "substitution",
+      "mathematical operations"
+    ]
+  },
+  "math_00408": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "reflection",
+      "vector",
+      "coordinates",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00409": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "asymptotes",
+      "hyperbola",
+      "foci",
+      "distance formula",
+      "algebraic manipulation",
+      "system of equations",
+      "conic sections",
+      "geometry"
+    ]
+  },
+  "math_00410": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "units digit",
+      "divisibility",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00411": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "combinatorics",
+      "handshakes",
+      "arrogant behavior",
+      "sorcery",
+      "arbitrary mixers"
+    ]
+  },
+  "math_00412": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "quadratic polynomial",
+      "real coefficients",
+      "inequality constraints",
+      "polynomial evaluation",
+      "algebraic manipulation",
+      "system of equations",
+      "quadratic formula",
+      "roots of polynomial",
+      "function properties",
+      "calculus concepts (if needed)"
+    ]
+  },
+  "math_00413": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "simplification",
+      "rational expressions",
+      "exponent rules",
+      "division of polynomials"
+    ]
+  },
+  "math_00414": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "quadratic equation",
+      "roots",
+      "solving equations",
+      "manipulating expressions",
+      "arithmetic operations"
+    ]
+  },
+  "math_00415": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "modular arithmetic",
+      "remainder",
+      "exponentiation",
+      "number theory"
+    ]
+  },
+  "math_00416": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "sine",
+      "trigonometric identity",
+      "angle",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00417": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "polynomial",
+      "function",
+      "substitution",
+      "coefficient",
+      "algebra"
+    ]
+  },
+  "math_00418": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "distance formula",
+      "line equation",
+      "coordinate geometry",
+      "algebra",
+      "simplifying radicals"
+    ]
+  },
+  "math_00419": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "cross product",
+      "vector",
+      "infinite solutions",
+      "smallest magnitude",
+      "algebra",
+      "linear algebra"
+    ]
+  },
+  "math_00420": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "vector",
+      "dot product",
+      "projection",
+      "algebra",
+      "matrix",
+      "linear algebra"
+    ]
+  },
+  "math_00421": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "arccos",
+      "cosine",
+      "pi",
+      "cubic polynomial",
+      "integer coefficients",
+      "algebraic manipulation",
+      "simplification",
+      "equation solving"
+    ]
+  },
+  "math_00422": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex numbers",
+      "roots of a polynomial",
+      "unordered set",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00423": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "integer",
+      "remainder",
+      "divisibility",
+      "number theory",
+      "Chinese Remainder Theorem"
+    ]
+  },
+  "math_00424": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "inversely proportional",
+      "square root",
+      "algebraic equation",
+      "substitution",
+      "solving for a variable"
+    ]
+  },
+  "math_00425": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "centroid",
+      "orthocenter",
+      "midpoint",
+      "triangle",
+      "side lengths",
+      "circumradius",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00426": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "perimeter",
+      "equilateral triangle",
+      "area",
+      "square root",
+      "diagonal",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00427": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "pencil price",
+      "eraser price",
+      "linear equation",
+      "substitution method",
+      "elimination method"
+    ]
+  },
+  "math_00428": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "AM-GM inequality",
+      "harmonic mean",
+      "algebraic manipulation",
+      "inequality solving",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00429": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "minimization",
+      "real numbers",
+      "exponents",
+      "calculus",
+      "optimization"
+    ]
+  },
+  "math_00430": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "fraction",
+      "decimal",
+      "division",
+      "rational number",
+      "number system"
+    ]
+  },
+  "math_00431": {
+    "level": 4,
+    "type": "precalculus",
+    "concepts": [
+      "range",
+      "function",
+      "arccos",
+      "arcsin",
+      "algebra",
+      "trigonometry",
+      "sine",
+      "cosine",
+      "radians"
+    ]
+  },
+  "math_00432": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "recurrence relation",
+      "function",
+      "integer sequence",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00433": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "fraction",
+      "decimal",
+      "Terminating Decimal",
+      "rational number",
+      "number theory"
+    ]
+  },
+  "math_00434": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "isosceles right triangle",
+      "altitude",
+      "hypotenuse",
+      "area",
+      "right triangle",
+      "Pythagorean theorem",
+      "square root",
+      "algebra"
+    ]
+  },
+  "math_00435": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "real-valued function",
+      "domain",
+      "rational function",
+      "square root",
+      "quadratic equation",
+      "inequality",
+      "algebra"
+    ]
+  },
+  "math_00436": {
+    "level": 4,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "binomial distribution",
+      "combinations",
+      "fairness",
+      "number theory"
+    ]
+  },
+  "math_00437": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "integer",
+      "system of equations",
+      "addition",
+      "subtraction",
+      "multiplication",
+      "division",
+      "Variables",
+      "equations",
+      "solving equations",
+      "integer solutions",
+      "logical reasoning",
+      "number theory"
+    ]
+  },
+  "math_00438": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "decimal expansion",
+      "nonzero digit",
+      "rational number",
+      "number theory",
+      "divisibility"
+    ]
+  },
+  "math_00439": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial division",
+      "quotient",
+      "remainder",
+      "algebra",
+      "divisibility"
+    ]
+  },
+  "math_00440": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "expansion",
+      "simplification",
+      "difference of squares",
+      "binomial theorem"
+    ]
+  },
+  "math_00441": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "distance",
+      "miles per gallon",
+      "gallons of gasoline",
+      "hybrid car",
+      "SUV",
+      "fuel efficiency",
+      "algebra",
+      "ratio",
+      "unit conversion",
+      "comparative analysis"
+    ]
+  },
+  "math_00442": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "exponential function",
+      "square root",
+      "function composition",
+      "algebra"
+    ]
+  },
+  "math_00443": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "arithmetic sequence",
+      "integer",
+      "exponentiation",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00444": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "rectangle",
+      "center",
+      "probability",
+      "distance",
+      "geometric probability",
+      "algebra",
+      "coordinate geometry",
+      "area",
+      "bisection"
+    ]
+  },
+  "math_00445": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "circle",
+      "parabola",
+      "tangents",
+      "points of tangency",
+      "quadrilateral",
+      "area"
+    ]
+  },
+  "math_00446": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "geometric sequence",
+      "sum of geometric series",
+      "infinite geometric series",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00447": {
+    "level": 1,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "number theory",
+      "multiples",
+      "inequalities",
+      "system of equations"
+    ]
+  },
+  "math_00448": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "modular arithmetic",
+      "multiplicative inverse",
+      "residue",
+      "number theory",
+      "gcd",
+      "integer",
+      "algebra"
+    ]
+  },
+  "math_00449": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "binary operation",
+      "arithmetic",
+      "substitution",
+      "function notation"
+    ]
+  },
+  "math_00450": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "congruence",
+      "gcd",
+      "integer",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00451": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "map scale",
+      "proportion",
+      "real life distance",
+      "map distance",
+      "unit conversion",
+      "algebraic equation",
+      "solving for unknown",
+      "fraction representation"
+    ]
+  },
+  "math_00452": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "sum",
+      "digits",
+      "two-digit number",
+      "reversed digits",
+      "algebra",
+      "system of equations"
+    ]
+  },
+  "math_00453": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "system of equations",
+      "representative",
+      "proportional",
+      "eighth grade",
+      "seventh grade",
+      "enrollment",
+      "Student Council"
+    ]
+  },
+  "math_00454": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "matrix",
+      "linear transformation",
+      "vector",
+      "line equation",
+      "algebra",
+      "system of equations"
+    ]
+  },
+  "math_00455": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "combination",
+      "binomial coefficient",
+      "selection",
+      "combinatorics"
+    ]
+  },
+  "math_00456": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "integer root",
+      "polynomial",
+      "factor theorem",
+      "rational root theorem",
+      "algebra",
+      "roots of polynomial",
+      "solving polynomials",
+      "number theory"
+    ]
+  },
+  "math_00457": {
+    "level": 1,
+    "type": "number_theory",
+    "concepts": [
+      "modulus",
+      "remainder",
+      "integer",
+      "number theory"
+    ]
+  },
+  "math_00458": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "range",
+      "integer",
+      "divisibility",
+      "grouping",
+      "number theory"
+    ]
+  },
+  "math_00459": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "proportionality",
+      "surface area",
+      "volume",
+      "cost function",
+      "algebraic equation",
+      "cubic function",
+      "geometric properties",
+      "minimization problem"
+    ]
+  },
+  "math_00460": {
+    "level": 4,
+    "type": "prealgebra",
+    "concepts": [
+      "parallel lines",
+      "angle",
+      "sum of angles in a triangle",
+      "exterior angle theorem",
+      "geometry"
+    ]
+  },
+  "math_00461": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "function",
+      "floor function",
+      "ceiling function",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00462": {
+    "level": 2,
+    "type": "number_theory",
+    "concepts": [
+      "addition",
+      "subtraction",
+      "decimal arithmetic",
+      "money conversion",
+      "cent calculation"
+    ]
+  },
+  "math_00463": {
+    "level": 2,
+    "type": "algebra",
+    "concepts": [
+      "rational function",
+      "undefined",
+      "denominator",
+      "quadratic equation",
+      "roots",
+      "algebra"
+    ]
+  },
+  "math_00464": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "logarithm",
+      "logarithmic properties",
+      "algebraic manipulation",
+      "exponentiation",
+      "number theory"
+    ]
+  },
+  "math_00465": {
+    "level": 4,
+    "type": "number_theory",
+    "concepts": [
+      "positive integers",
+      "divisors",
+      "number theory",
+      "list order"
+    ]
+  },
+  "math_00466": {
+    "level": 5,
+    "type": "precalculus",
+    "concepts": [
+      "complex numbers",
+      "roots of unity",
+      "exponential form",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00467": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "area",
+      "triangle",
+      "shaded region",
+      "geometric shapes",
+      "diagram interpretation",
+      "perpendicular distance",
+      "base",
+      "height"
+    ]
+  },
+  "math_00468": {
+    "level": 4,
+    "type": "algebra",
+    "concepts": [
+      "square root",
+      "inequality",
+      "integer",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00469": {
+    "level": 3,
+    "type": "algebra",
+    "concepts": [
+      "ceiling function",
+      "square root",
+      "integer part",
+      "algebra"
+    ]
+  },
+  "math_00470": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "optimization",
+      "calculus",
+      "AM-GM inequality",
+      "algebra"
+    ]
+  },
+  "math_00471": {
+    "level": 3,
+    "type": "prealgebra",
+    "concepts": [
+      "mean",
+      "average",
+      "sum of scores",
+      "number of students",
+      "arithmetic operations",
+      "data analysis"
+    ]
+  },
+  "math_00472": {
+    "level": 1,
+    "type": "algebra",
+    "concepts": [
+      "distance",
+      "speed",
+      "time",
+      "mixed number",
+      "arithmetic",
+      "unit conversion",
+      "rate problem",
+      "algebra"
+    ]
+  },
+  "math_00473": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "magic square",
+      "sum of rows",
+      "sum of columns",
+      "sum of diagonals",
+      "algebraic equation",
+      "solving equations",
+      "matrix",
+      "number theory"
+    ]
+  },
+  "math_00474": {
+    "level": 1,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "logarithm",
+      "change of base formula",
+      "multiplication",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00475": {
+    "level": 5,
+    "type": "counting_&_probability",
+    "concepts": [
+      "probability",
+      "unfair die",
+      "sum of probabilities",
+      "opposite faces",
+      "sum of 7"
+    ]
+  },
+  "math_00476": {
+    "level": 2,
+    "type": "prealgebra",
+    "concepts": [
+      "diagonal",
+      "Pythagorean theorem",
+      "distance",
+      "rectangle",
+      "length",
+      "width",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00477": {
+    "level": 3,
+    "type": "number_theory",
+    "concepts": [
+      "two-digit number",
+      "tens digit",
+      "square of a positive integer",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00478": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "sum of complex solutions",
+      "complex numbers",
+      "rational functions",
+      "equations",
+      "algebra",
+      "roots",
+      "quadratic equations",
+      "number theory"
+    ]
+  },
+  "math_00479": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "prime numbers",
+      "congruences",
+      "number theory",
+      "algebra"
+    ]
+  },
+  "math_00480": {
+    "level": 2,
+    "type": "precalculus",
+    "concepts": [
+      "complex numbers",
+      "roots of unity",
+      "algebraic manipulation",
+      "rational expressions",
+      "simplification",
+      "number theory"
+    ]
+  },
+  "math_00481": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "exponentiation",
+      "factorial",
+      "rational expressions",
+      "simplification",
+      "polynomial functions",
+      "integer sequences"
+    ]
+  },
+  "math_00482": {
+    "level": 5,
+    "type": "number_theory",
+    "concepts": [
+      "probability",
+      "terminating decimal",
+      "reciprocal",
+      "positive odd integer",
+      "relatively prime",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00483": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "area of triangle",
+      "algebraic expression",
+      "sides of triangle",
+      "trigonometric identity",
+      "tangent function"
+    ]
+  },
+  "math_00484": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "algebra",
+      "radical equations",
+      "square roots",
+      "quadratic equations",
+      "simplifying expressions",
+      "isolate variables",
+      "test solutions",
+      "number theory"
+    ]
+  },
+  "math_00485": {
+    "level": 2,
+    "type": "counting_&_probability",
+    "concepts": [
+      "shortest path",
+      "distance",
+      "triangle inequality",
+      "geometric properties",
+      "algebraic expressions",
+      "optimization problem",
+      "graph theory",
+      "combinatorial methods"
+    ]
+  },
+  "math_00486": {
+    "level": 3,
+    "type": "geometry",
+    "concepts": [
+      "volume",
+      "cylinder",
+      "algebra",
+      "geometric solid",
+      "number theory"
+    ]
+  },
+  "math_00487": {
+    "level": 1,
+    "type": "number_theory",
+    "concepts": [
+      "modulus",
+      "arithmetic series",
+      "sum of integers",
+      "number theory"
+    ]
+  },
+  "math_00488": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "algebra",
+      "percentage",
+      "original price",
+      "sale price",
+      "mathematical relationship"
+    ]
+  },
+  "math_00489": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "absolute value",
+      "piecewise function",
+      "minimum value",
+      "interval",
+      "algebra"
+    ]
+  },
+  "math_00490": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "polynomial",
+      "integer coefficients",
+      "roots",
+      "distinct integers",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00491": {
+    "level": 5,
+    "type": "prealgebra",
+    "concepts": [
+      "permutation",
+      "combinatorics",
+      "optional",
+      "baldness",
+      "earrings",
+      "eyebrows",
+      "lips",
+      "shoes",
+      "hairstyles"
+    ]
+  },
+  "math_00492": {
+    "level": 3,
+    "type": "precalculus",
+    "concepts": [
+      "vector",
+      "projection",
+      "line",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00493": {
+    "level": 5,
+    "type": "algebra",
+    "concepts": [
+      "algebra",
+      "radical expressions",
+      "rationalizing the denominator",
+      "expanding binomials",
+      "simplifying radicals",
+      "integer coefficients",
+      "sum of integers"
+    ]
+  },
+  "math_00494": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "set",
+      "real roots",
+      "quadratic equation",
+      "algebra",
+      "geometry"
+    ]
+  },
+  "math_00495": {
+    "level": 4,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "domain",
+      "function",
+      "logarithm",
+      "base 10 logarithm",
+      "rational function",
+      "logarithmic function",
+      "interval notation",
+      "asymptotes",
+      "discontinuities"
+    ]
+  },
+  "math_00496": {
+    "level": 3,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "complex number",
+      "modulus",
+      "rational function",
+      "algebra",
+      "complex arithmetic"
+    ]
+  },
+  "math_00497": {
+    "level": 5,
+    "type": "geometry",
+    "concepts": [
+      "equiangular",
+      "octagon",
+      "sides",
+      "length",
+      "area",
+      "geometric properties",
+      "algebraic expressions",
+      "number theory"
+    ]
+  },
+  "math_00498": {
+    "level": 5,
+    "type": "intermediate_algebra",
+    "concepts": [
+      "sequence",
+      "recurrence relation",
+      "algebra",
+      "number theory"
+    ]
+  },
+  "math_00499": {
+    "level": 4,
+    "type": "geometry",
+    "concepts": [
+      "altitude",
+      "intersection",
+      "triangle",
+      "angles",
+      "sum of angles in a triangle",
+      "geometric properties",
+      "triangle inequality"
+    ]
+  }
+}

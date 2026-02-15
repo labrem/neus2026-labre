@@ -1,0 +1,227 @@
+# Heatmap Plot Configuration
+version: "1.0"
+
+# =============================================================================
+# PLOT METADATA
+# =============================================================================
+title: "OpenMath Performance by Problem Level and Type"
+description: "Heatmap plots showing accuracy delta and attempts ratio across models and thresholds"
+
+# Data source (CSV file path relative to project root)
+data_file: "results/results_260210_2113.csv"
+
+# =============================================================================
+# GLOBAL DATA FILTERS
+# =============================================================================
+# These filter the data to specific subsets before generating heatmaps
+filters:
+  mode: "best-of-n"  # Options: "greedy", "best-of-n"
+  # type: "all"   # Uncomment to filter to overall metrics only
+
+# =============================================================================
+# METRICS DEFINITIONS
+# =============================================================================
+# Define reusable metrics here. Metrics can reference:
+#   - Base variables: baseline_correct, baseline_problems, baseline_attempts,
+#                     openmath_correct, openmath_problems, openmath_attempts
+#
+# OPERATORS: +, -, *, /, ** (power), parentheses
+# =============================================================================
+metrics:
+  # Accuracy metrics
+  openmath_acc: "openmath_correct / openmath_problems"
+  baseline_acc: "baseline_correct / baseline_problems"
+
+  # Accuracy delta in percentage points (positive = OpenMath better)
+  accuracy_delta: "100 * (openmath_acc - baseline_acc)"
+
+  # Attempts delta (negative = OpenMath more efficient)
+  attempts_delta: "openmath_attempts - baseline_attempts"
+
+# =============================================================================
+# COLUMN CONFIGURATION
+# =============================================================================
+# Controls how columns (model x threshold) are organized
+columns:
+  group_by: ["model", "threshold"]
+  model_order:
+    - "qwen2.5-math-7b"
+    - "gemma2-9b"
+    - "gemma2-2b"
+  # Model display labels (mapping from data values to display labels)
+  model_labels:
+    qwen2.5-math-7b: "Qwen2.5-Math-7B" #"qwen2.5-math-7b"
+    gemma2-9b: "Gemma2:9B" #"gemma2-9b"
+    gemma2-2b: "Gemma2:2B" #"gemma2-2b"
+  threshold_range: "auto"  # "auto" detects from data, or specify list: [0.0, 0.1, 0.2, ...]
+
+# =============================================================================
+# ROW LABELS CONFIGURATION
+# =============================================================================
+# Controls the display labels for rows in heatmaps
+
+# Level labels (mapping from data values to display labels)
+level_labels:
+  all: "All"
+  1: "1"
+  2: "2"
+  3: "3"
+  4: "4"
+  5: "5"
+
+# Level order (determines row order in heatmap, top to bottom)
+# Remove "all" from list if you don't want the aggregate row
+level_order: ["all", 5, 4, 3, 2, 1]
+
+# Type labels (mapping from data values to display labels)
+type_labels:
+  all: "All"
+  prealgebra: "Prealgebra"
+  algebra: "Algebra"
+  intermediate_algebra: "Intermediate Algebra"
+  precalculus: "Precalculus"
+  counting_&_probability: "Counting/Probability"
+  geometry: "Geometry"
+  number_theory: "Number Theory"
+
+# Type order (determines row order in heatmap, top to bottom)
+# Remove "all" from list if you don't want the aggregate row
+type_order:
+  - "all"
+  - "prealgebra"
+  - "algebra"
+  - "intermediate_algebra"
+  - "precalculus"
+  - "counting_&_probability"
+  - "geometry"
+  - "number_theory"
+
+# =============================================================================
+# HEATMAP CONFIGURATIONS
+# =============================================================================
+# Each heatmap is rendered in a subplot. Order determines position in grid.
+heatmaps:
+  # --- Accuracy by Problem Level (top-left) ---
+  - id: "heatmap_accuracy-by-level_best-of-n"
+    # title: "Accuracy Delta (% OpenMath − % Baseline) by Problem Level (mode: best-of-n)"
+    title: ""
+    breakdown: "level"
+    metric: "accuracy_delta"
+    value_format: ".1f"
+    colormap: "coolwarm_r"
+    center: 0.0 # Center colormap at zero
+    x_title: "" # X-axis title (blank = no title)
+    y_title: "" # Y-axis title (blank = no title)
+
+  # --- Average Number of Attempts by Problem Level (top-right) ---
+  - id: "heatmap_attempts-by-level_best-of-n"
+    # title: "Average Attempts Delta (# OpenMath − # Baseline) by Problem Level (mode: best-of-n)"
+    title: ""
+    breakdown: "level"
+    metric: "attempts_delta"
+    value_format: ".2f"
+    colormap: "coolwarm"
+    center: 0.0 # Center colormap at zero (no change)
+    x_title: ""
+    y_title: ""
+
+  # --- Accuracy by Problem Type (bottom-left) ---
+  - id: "heatmap_accuracy-by-type_best-of-n"
+    # title: "Accuracy Delta (% OpenMath − % Baseline) by Problem Type (mode: best-of-n)"
+    title: ""
+    breakdown: "type"
+    metric: "accuracy_delta"
+    value_format: ".1f"
+    colormap: "coolwarm_r"
+    center: 0.0
+    x_title: ""
+    y_title: ""
+
+  # --- Attempts by Problem Type (bottom-right) ---
+  - id: "heatmap_attempts-by-type_best-of-n"
+    # title: "Average Attempts Delta (# OpenMath − # Baseline) by Problem Type (mode: best-of-n)"
+    title: ""
+    breakdown: "type"
+    metric: "attempts_delta"
+    value_format: ".2f"
+    colormap: "coolwarm"
+    center: 0.0 # Changed from 1.0 since now using delta (0.0 = no change)
+    x_title: ""
+    y_title: ""
+
+# =============================================================================
+# LAYOUT CONFIGURATION
+# =============================================================================
+layout:
+  figsize: [18, 12] # Figure size in inches [width, height]
+  subplot_grid: [2, 2] # Grid arrangement [rows, columns]
+  colorbar: true # Show colorbar for each heatmap
+  colorbar_pad: 0.02 # Distance between colorbar and chart (fraction of axes, smaller = closer)
+  colorbar_shrink: 0.7 # Colorbar height as fraction of axes height
+  colorbar_aspect: 30 # Colorbar width ratio (higher = thinner)
+
+  # Cell dimensions (optional - auto-calculated if not specified)
+  cell_height: 0.4 # Height of each cell in inches (smaller = more compact)
+  cell_width: 0.5 # Width of each cell in inches
+
+  # Threshold separator lines (vertical lines between threshold groups)
+  separator_color: "white" # Color of separator lines
+  separator_width: 8 # Width of separator lines
+
+  # Font sizes
+  fonts:
+    annotation: 10 # Cell value annotations
+    title: 14 # Subplot titles
+    model_labels: 12 # Model labels on top x-axis
+    threshold_labels: 12 # Threshold labels on bottom x-axis
+    threshold_title: 12 # "Threshold" label
+    y_labels: 12 # Y-axis tick labels (level/type values)
+    y_title: 12 # Y-axis title
+
+  # Model label rotation
+  model_label_rotation: 90 # Rotation angle in degrees (0=horizontal, 90=vertical)
+  model_label_ha: "center" # Horizontal alignment: "left", "center", "right"
+
+# =============================================================================
+# OUTPUT CONFIGURATION
+# =============================================================================
+output:
+  # Base directory for all plot outputs (relative to project root)
+  # All files (combined and individual) are saved to this directory
+  base_dir: "experiments/plots"
+
+  # Combined figure (all heatmaps in grid)
+  png: true
+  png_file: "heatmap_best-of-n.png" # Relative to base_dir
+  pdf: false
+  pdf_file: "heatmap_best-of-n.pdf"
+
+  # Individual heatmap files (saved using heatmap 'id' as filename)
+  individual_files: true
+  individual_dir: "" # Subdirectory under base_dir (blank = same as base_dir)
+  individual_format: ["png"] #["png", "pdf"] # Formats to save
+
+  # Save CSV with plotted values (for audit trail)
+  save_csv: true  # Save CSV alongside each individual heatmap
+
+  show: true # Display plot interactively
+
+# =============================================================================
+# COLOR PALETTE REFERENCE
+# =============================================================================
+#
+# DIVERGING COLORMAPS (recommended for delta/ratio values):
+#   RdYlGn    - Red -> Yellow -> Green (good for accuracy delta)
+#   RdYlGn_r  - Green -> Yellow -> Red (reversed, for attempts ratio)
+#   RdBu      - Red -> White -> Blue
+#   coolwarm  - Cool blue -> Warm red
+#   PuOr      - Purple -> White -> Orange
+#
+# SEQUENTIAL COLORMAPS (for single-direction values):
+#   viridis   - Purple -> Blue -> Green -> Yellow
+#   plasma    - Purple -> Pink -> Orange -> Yellow
+#   YlOrRd    - Yellow -> Orange -> Red
+#   Blues     - White -> Blue
+#   Greens    - White -> Green
+#
+# =============================================================================

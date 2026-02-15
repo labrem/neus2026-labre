@@ -1,0 +1,19 @@
+# Batch Plot Configuration
+# Runs multiple plot configs in sequence
+
+# List of config files to process
+# Paths are relative to project root
+configs:
+  - "configs/plots/lines-bubbles_greedy_all_all.yaml"
+  - "configs/plots/lines-bubbles_greedy_1_all.yaml"
+  - "configs/plots/lines-bubbles_greedy_2_all.yaml"
+  - "configs/plots/lines-bubbles_greedy_3_all.yaml"
+  - "configs/plots/lines-bubbles_greedy_4_all.yaml"
+  - "configs/plots/lines-bubbles_greedy_5_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_all_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_1_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_2_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_3_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_4_all.yaml"
+  - "configs/plots/lines-bubbles_best-of-n_5_all.yaml"
+  # Add more configs as needed...

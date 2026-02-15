@@ -1,0 +1,94 @@
+# This config defines baseline/openmath file pairs for results extraction.
+
+# Optional: Override output filename (default: auto-generated with timestamp)
+output: null
+
+# Path to reranked data (relative to project root)
+reranked: data/openmath-reranked.json
+
+# Thresholds to analyze (0.0 = all problems, higher = stricter filtering)
+thresholds:
+  - 0.0
+  - 0.1
+  - 0.2
+  - 0.3
+  - 0.4
+  - 0.5
+  - 0.6
+  - 0.7
+  - 0.8
+  - 0.9
+
+# Experiment pairs (baseline + openmath files for each model/mode)
+experiments:
+  # Gemma2-2B
+  # greedy, threshold 0.0
+  - model: gemma2-2b
+    mode: greedy
+    baseline: results/experiment_gemma2-2b_baseline_greedy_260204_1607.md
+    openmath: results/experiment_gemma2-2b_openmath_greedy_0.0_260204_1644.md
+  # best-of-n, threshold 0.0
+  - model: gemma2-2b
+    mode: best-of-n
+    baseline: results/experiment_gemma2-2b_baseline_best-of-n_260204_1918.md
+    openmath: results/experiment_gemma2-2b_openmath_best-of-n_0.0_260204_2148.md
+
+  # Gemma2-9B
+  # greedy, threshold 0.0
+  - model: gemma2-9b
+    mode: greedy
+    baseline: results/experiment_gemma2-9b_baseline_greedy_260206_1156.md
+    openmath: results/experiment_gemma2-9b_openmath_greedy_0.0_260206_1841.md
+  # best-of-n, threshold 0.0
+  - model: gemma2-9b
+    mode: best-of-n
+    baseline: results/experiment_gemma2-9b_baseline_best-of-n_260207_1151.md
+    openmath: results/experiment_gemma2-9b_openmath_best-of-n_0.0_260208_0459.md
+
+  # Qwen2.5-Math-7B
+  # greedy, threshold 0.0
+  - model: qwen2.5-math-7b
+    mode: greedy
+    baseline: results/experiment_qwen2.5-math-7b_baseline_greedy_260205_0001.md
+    openmath: results/experiment_qwen2.5-math-7b_openmath_greedy_0.0_260205_0213.md
+  # best-of-n, threshold 0.0
+  - model: qwen2.5-math-7b
+    mode: best-of-n
+    baseline: results/experiment_qwen2.5-math-7b_baseline_best-of-n_260205_0841.md
+    openmath: results/experiment_qwen2.5-math-7b_openmath_best-of-n_0.0_260205_1459.md
+
+  # Gemma2-2B
+  # greedy, threshold 0.5
+  - model: gemma2-2b
+    mode: greedy
+    baseline: results/experiment_gemma2-2b_baseline_greedy_260204_1607.md
+    openmath: experiment_gemma2-2b_openmath_greedy_0.5_260208_1918.md
+  # best-of-n, threshold 0.5
+  - model: gemma2-2b
+    mode: best-of-n
+    baseline: results/experiment_gemma2-2b_baseline_best-of-n_260204_1918.md
+    openmath: results/experiment_gemma2-2b_openmath_best-of-n_0.5_260208_2052.md
+
+  # Gemma2-9B
+  # greedy, threshold 0.5
+  - model: gemma2-9b
+    mode: greedy
+    baseline: results/experiment_gemma2-9b_baseline_greedy_260206_1156.md
+    openmath: results/experiment_gemma2-9b_openmath_greedy_0.5_260208_22561.md
+  # best-of-n, threshold 0.5
+  - model: gemma2-9b
+    mode: best-of-n
+    baseline: results/experiment_gemma2-9b_baseline_best-of-n_260207_1151.md
+    openmath: results/experiment_gemma2-9b_openmath_best-of-n_0.5_260209_02319.md
+
+  # Qwen2.5-Math-7B
+  # greedy, threshold 0.5
+  - model: qwen2.5-math-7b
+    mode: greedy
+    baseline: results/experiment_qwen2.5-math-7b_baseline_greedy_260205_0001.md
+    openmath: results/experiment_qwen2.5-math-7b_openmath_greedy_0.5_260208_1339.md
+  # best-of-n, threshold 0.5
+  - model: qwen2.5-math-7b
+    mode: best-of-n
+    baseline: results/experiment_qwen2.5-math-7b_baseline_best-of-n_260205_0841.md
+    openmath: results/experiment_qwen2.5-math-7b_openmath_best-of-n_0.5_260208_1645.md

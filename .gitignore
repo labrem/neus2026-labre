@@ -1,0 +1,70 @@
+# Virtual environment
+.venv/
+venv/
+.venv
+
+# Model weights (handled via symlink)
+*.safetensors
+*.bin
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Batch experiment runner
+jobs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+*.cache
+.pytest_cache/
+
+# LaTeX
+*.aux
+*.out
+*.log
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.spl
+*.bbl
+*.blg
+*.dvi
+*.ps
+*.pdf
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Local environment (vLLM build)
+vllm_env/
+.local/dgx-setup/
+
+# Local
+.mcp.json
+.models/
+data/math_benchmark/
