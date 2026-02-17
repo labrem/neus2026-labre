@@ -1,5 +1,6 @@
 # OpenMath: Ontology-Guided Neuro-Symbolic Inference
 
+[![Paper](https://img.shields.io/badge/Paper-Preprint-blue)](https://zenodo.org/records/18665030)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the implementation of the paper **"Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge"**, submitted to the International Conference on Neuro-Symbolic Systems 2026 ([NeuS 2026](https://sites.google.com/usc.edu/neus2026/home)).
