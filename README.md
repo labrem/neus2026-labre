@@ -2,7 +2,8 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.17826)
 [![Paper](https://img.shields.io/badge/Paper-Zenodo-blue)](https://zenodo.org/records/18665030)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/Paper-Hugging Face-yellow)](https://huggingface.co/papers/2602.17826)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the implementation of the paper **"Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge"**, submitted to the International Conference on Neuro-Symbolic Systems 2026 ([NeuS 2026](https://sites.google.com/usc.edu/neus2026/home)).
 
