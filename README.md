@@ -437,11 +437,14 @@ python -m pytest tests/test_hybrid_retriever.py -v
 If you use this code or findings in your research, please cite:
 
 ```bibtex
-@inproceedings{labre2026ontology,
-  title={Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge},
-  author={Labre, Marcelo},
-  booktitle={Proceedings of NeuS 2026},
-  year={2026}
+@misc{labre2026ontologyguidedneurosymbolicinferencegrounding,
+      title={Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge}, 
+      author={Marcelo Labre},
+      year={2026},
+      eprint={2602.17826},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.17826}, 
 }
 ```
 
