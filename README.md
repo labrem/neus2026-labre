@@ -5,8 +5,6 @@
 [![Paper](https://img.shields.io/badge/Paper-HuggingFace-yellow)](https://huggingface.co/papers/2602.17826)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the implementation of the paper **"Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge"**, submitted to the International Conference on Neuro-Symbolic Systems 2026 ([NeuS 2026](https://sites.google.com/usc.edu/neus2026/home)).
-
 ## Overview
 
 Language models exhibit fundamental limitations—hallucination, brittleness, and lack of formal grounding—that are particularly problematic in high-stakes domains. This project investigates whether formal domain ontologies can enhance language model reliability through retrieval-augmented generation.
