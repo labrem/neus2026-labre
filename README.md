@@ -5,6 +5,8 @@
 [![Paper](https://img.shields.io/badge/Paper-HuggingFace-yellow)](https://huggingface.co/papers/2602.17826)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+This repository contains the implementation of the paper **"Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge"**.
+
 ## Overview
 
 Language models exhibit fundamental limitations—hallucination, brittleness, and lack of formal grounding—that are particularly problematic in high-stakes domains. This project investigates whether formal domain ontologies can enhance language model reliability through retrieval-augmented generation.
@@ -24,8 +26,8 @@ Using mathematics as a proof of concept, we implement a neuro-symbolic pipeline 
 
 ```bash
 # Clone with OpenMath submodule
-git clone --recurse-submodules https://github.com/labrem/neus2026-labre.git
-cd neus2026-labre
+git clone --recurse-submodules https://github.com/labrem/openmath-paper.git
+cd nopenmath-paper
 
 # Add OpenMath submodule (if not cloned with --recurse-submodules)
 git submodule add https://github.com/OpenMath/CDs.git openmath-cds
